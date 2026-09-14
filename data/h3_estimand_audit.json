@@ -1,0 +1,290 @@
+{
+  "adjusted_within_party_ranks": {
+    "leadership_tenure": {
+      "covariates": [
+        "leadership",
+        "tenure_days"
+      ],
+      "n_mps": 90,
+      "p": 0.04511563818861501,
+      "partial_rho": 0.21415898843649595
+    },
+    "leadership_tenure_prominence": {
+      "covariates": [
+        "leadership",
+        "tenure_days",
+        "log_n"
+      ],
+      "n_mps": 90,
+      "p": 0.053910028937475936,
+      "partial_rho": 0.20740271776389357
+    }
+  },
+  "early": {
+    "global_rank_party_fixed_effects": {
+      "p": 0.16552426405679396,
+      "rho": 0.1914388678569972
+    },
+    "n_mps": 54,
+    "name": "early",
+    "normalized_within_party_ranks": {
+      "pearson_p": 0.27669703907176335,
+      "rho": 0.15070555082792164
+    },
+    "party_meta_analysis": {
+      "fixed_effect_fisher_rho": 0.09041360221023396,
+      "groups": [
+        {
+          "group": "ECOS",
+          "n": 8,
+          "p": 0.38512064355625636,
+          "rho": 0.3571428571428572
+        },
+        {
+          "group": "EPR",
+          "n": 6,
+          "p": 0.20799999999999982,
+          "rho": 0.6
+        },
+        {
+          "group": "LFI-NFP",
+          "n": 18,
+          "p": 0.8632818503550966,
+          "rho": 0.04370598894435282
+        },
+        {
+          "group": "RN",
+          "n": 9,
+          "p": 0.731278765094574,
+          "rho": -0.1338923854009157
+        },
+        {
+          "group": "SOC",
+          "n": 7,
+          "p": 0.6700850339168266,
+          "rho": -0.198206241793023
+        }
+      ],
+      "k_groups": 5
+    },
+    "stratified_bootstrap": {
+      "reps": 4000,
+      "seed": 20260832,
+      "within_rank_bootstrap_median": 0.12347812490650784,
+      "within_rank_ci95": [
+        -0.17823538084631965,
+        0.43169590004168096
+      ]
+    },
+    "within_party_permutation": {
+      "reps": 20000,
+      "seed": 20260832,
+      "two_sided_p": 0.31773411329433526
+    }
+  },
+  "full_window": {
+    "global_rank_party_fixed_effects": {
+      "p": 0.04329958193017969,
+      "rho": 0.2135332464022667
+    },
+    "n_mps": 90,
+    "name": "full_window",
+    "normalized_within_party_ranks": {
+      "pearson_p": 0.0940255254270304,
+      "rho": 0.17758787557915529
+    },
+    "party_meta_analysis": {
+      "fixed_effect_fisher_rho": 0.09356395985776131,
+      "groups": [
+        {
+          "group": "DR",
+          "n": 5,
+          "p": 0.1881204043741873,
+          "rho": 0.7
+        },
+        {
+          "group": "ECOS",
+          "n": 11,
+          "p": 0.6306852146425357,
+          "rho": 0.16363636363636366
+        },
+        {
+          "group": "EPR",
+          "n": 8,
+          "p": 0.020815127253525276,
+          "rho": 0.7857142857142858
+        },
+        {
+          "group": "LFI-NFP",
+          "n": 27,
+          "p": 0.1437156724074716,
+          "rho": -0.28901036629206295
+        },
+        {
+          "group": "RN",
+          "n": 14,
+          "p": 0.28037623911176374,
+          "rho": 0.3102312108297932
+        },
+        {
+          "group": "SOC",
+          "n": 11,
+          "p": 0.6583070394760853,
+          "rho": 0.15068650244248363
+        },
+        {
+          "group": "UDDPLR",
+          "n": 4,
+          "p": 0.6,
+          "rho": -0.39999999999999997
+        }
+      ],
+      "k_groups": 7
+    },
+    "stratified_bootstrap": {
+      "reps": 4000,
+      "seed": 20260831,
+      "within_rank_bootstrap_median": 0.14346882491657734,
+      "within_rank_ci95": [
+        -0.07636882879419629,
+        0.35730505021639813
+      ]
+    },
+    "within_party_permutation": {
+      "reps": 20000,
+      "seed": 20260831,
+      "two_sided_p": 0.11489425528723564
+    }
+  },
+  "lagged": {
+    "global_rank_party_fixed_effects": {
+      "p": 0.645401883231406,
+      "rho": 0.05681066746493058
+    },
+    "n_mps": 68,
+    "name": "lagged",
+    "normalized_within_party_ranks": {
+      "pearson_p": 0.49826633341562987,
+      "rho": 0.08352993104104091
+    },
+    "party_meta_analysis": {
+      "fixed_effect_fisher_rho": 0.011765322799714161,
+      "groups": [
+        {
+          "group": "ECOS",
+          "n": 7,
+          "p": 0.9394082054712856,
+          "rho": 0.03571428571428572
+        },
+        {
+          "group": "EPR",
+          "n": 5,
+          "p": 0.747060078104662,
+          "rho": 0.19999999999999998
+        },
+        {
+          "group": "LFI-NFP",
+          "n": 24,
+          "p": 0.7907712749009542,
+          "rho": 0.057163367451371634
+        },
+        {
+          "group": "RN",
+          "n": 12,
+          "p": 0.24271975389307823,
+          "rho": -0.36546592798881006
+        },
+        {
+          "group": "SOC",
+          "n": 9,
+          "p": 0.35581957250178897,
+          "rho": 0.35
+        }
+      ],
+      "k_groups": 5
+    },
+    "stratified_bootstrap": {
+      "reps": 4000,
+      "seed": 20260834,
+      "within_rank_bootstrap_median": 0.07800130234461417,
+      "within_rank_ci95": [
+        -0.17117600246584652,
+        0.31957307450454386
+      ]
+    },
+    "within_party_permutation": {
+      "reps": 20000,
+      "seed": 20260834,
+      "two_sided_p": 0.5318734063296835
+    }
+  },
+  "late": {
+    "global_rank_party_fixed_effects": {
+      "p": 0.05666143736836603,
+      "rho": 0.22888735044472458
+    },
+    "n_mps": 70,
+    "name": "late",
+    "normalized_within_party_ranks": {
+      "pearson_p": 0.052762102628099355,
+      "rho": 0.23250255393104768
+    },
+    "party_meta_analysis": {
+      "fixed_effect_fisher_rho": 0.12117077156386563,
+      "groups": [
+        {
+          "group": "DR",
+          "n": 4,
+          "p": 0.0,
+          "rho": 1.0
+        },
+        {
+          "group": "ECOS",
+          "n": 7,
+          "p": 0.2939341076002517,
+          "rho": 0.4642857142857144
+        },
+        {
+          "group": "EPR",
+          "n": 6,
+          "p": 0.6227871720116618,
+          "rho": 0.2571428571428572
+        },
+        {
+          "group": "LFI-NFP",
+          "n": 24,
+          "p": 0.25167792331473055,
+          "rho": -0.24343854770496665
+        },
+        {
+          "group": "RN",
+          "n": 12,
+          "p": 0.09184579185725565,
+          "rho": 0.5078816895453011
+        },
+        {
+          "group": "SOC",
+          "n": 9,
+          "p": 0.2730297471437723,
+          "rho": 0.4100454302903043
+        }
+      ],
+      "k_groups": 5
+    },
+    "stratified_bootstrap": {
+      "reps": 4000,
+      "seed": 20260833,
+      "within_rank_bootstrap_median": 0.19538195086218776,
+      "within_rank_ci95": [
+        -0.0696327375712814,
+        0.44110258784143047
+      ]
+    },
+    "within_party_permutation": {
+      "reps": 20000,
+      "seed": 20260833,
+      "two_sided_p": 0.07474626268686566
+    }
+  },
+  "median_date": "2025-05-08"
+}

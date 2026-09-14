@@ -1,0 +1,55 @@
+{
+  "article_only_conditional": {
+    "ci_95": [
+      -0.8815384615384615,
+      -0.7361538461538463
+    ],
+    "median": -0.8146153846153847,
+    "prob_negative": 1.0
+  },
+  "article_plus_analytic_marginal_error": {
+    "ci_95": [
+      -0.8769423076923076,
+      -0.6484615384615384
+    ],
+    "median": -0.7780769230769231,
+    "prob_negative": 1.0
+  },
+  "article_plus_joint_model_perturbation": {
+    "ci_95": [
+      -0.8861538461538463,
+      -0.7407692307692308
+    ],
+    "median": -0.8200000000000001,
+    "prob_negative": 1.0
+  },
+  "bootstrap_attempts": 4000,
+  "estimand": "Spearman correlation in the fixed 25-outlet observed panel",
+  "interpretation": {
+    "analytic": "Independent normal draws from released outlet score and sigma; marginal-error approximation because analytic cross-outlet covariance is unavailable.",
+    "membership": "Fixed; no outlet resampling because inference is scoped to the observed purposive panel.",
+    "model_perturbation": "Joint released FrIdeo perturbation of family evidence and shrinkage, including shared panel re-standardisation."
+  },
+  "n_article_clusters": 15094,
+  "n_bootstrap": 4000,
+  "n_outlets": 25,
+  "placement_only_analytic_marginal_error": {
+    "ci_95": [
+      -0.8707884615384615,
+      -0.6884615384615385
+    ],
+    "median": -0.793076923076923,
+    "prob_negative": 1.0
+  },
+  "placement_only_joint_model_perturbation": {
+    "ci_95": [
+      -0.8523076923076923,
+      -0.8207692307692308
+    ],
+    "median": -0.8346153846153845,
+    "prob_negative": 1.0
+  },
+  "point_rho": -0.83,
+  "seed_article_and_analytic": 20260831,
+  "seed_frideo_model_perturbation": 20260832
+}

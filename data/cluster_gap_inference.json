@@ -1,0 +1,15 @@
+{
+  "cluster_robust_se": 0.00863562593077024,
+  "coefficient_left_minus_right": 0.06289344082704436,
+  "covariance": "CR1 article-cluster sandwich",
+  "cr1_factor": 1.0001299097695786,
+  "degrees_of_freedom": 15093,
+  "estimator": "OLS signed tone on intercept and left-bloc indicator",
+  "n_article_clusters": 15094,
+  "n_pairs": 15713,
+  "p_value": 3.425581844045485e-13,
+  "reference_distribution": "Student t",
+  "statistic_label": "t",
+  "t": 7.283020516549249,
+  "tail": "two-sided"
+}

@@ -1,0 +1,55 @@
+{
+  "audit_sample": {
+    "n_units": 440
+  },
+  "by_bloc": {
+    "centre": {
+      "alpha_ordinal": 0.7351,
+      "n": 76,
+      "raw_agreement": 0.8553
+    },
+    "centre_right": {
+      "alpha_ordinal": NaN,
+      "n": 2,
+      "raw_agreement": 1.0
+    },
+    "far_right": {
+      "alpha_ordinal": 0.9067,
+      "n": 88,
+      "raw_agreement": 0.9318
+    },
+    "left": {
+      "alpha_ordinal": 0.7403,
+      "n": 136,
+      "raw_agreement": 0.8824
+    },
+    "other": {
+      "alpha_ordinal": 0.9267,
+      "n": 6,
+      "raw_agreement": 0.6667
+    },
+    "right": {
+      "alpha_ordinal": 0.793,
+      "n": 69,
+      "raw_agreement": 0.8696
+    }
+  },
+  "by_group": {
+    "LFI-NFP": {
+      "alpha_ordinal": 0.7351,
+      "n": 67,
+      "raw_agreement": 0.8657
+    },
+    "RN": {
+      "alpha_ordinal": 0.9067,
+      "n": 88,
+      "raw_agreement": 0.9318
+    }
+  },
+  "n_human_agreed_total": 377,
+  "pooled": {
+    "alpha_ordinal": 0.8087,
+    "n": 377,
+    "raw_agreement": 0.8833
+  }
+}

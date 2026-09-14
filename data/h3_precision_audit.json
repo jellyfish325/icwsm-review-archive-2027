@@ -1,0 +1,120 @@
+{
+  "beta_binomial_leave_one_mp_out": {
+    "all_positive": true,
+    "coefficient_range": [
+      0.2940772457486178,
+      0.48578673385342813
+    ],
+    "refits": 90
+  },
+  "beta_binomial_parametric_bootstrap": {
+    "coefficient_ci95": [
+      -0.005651041879690018,
+      0.8181646734239847
+    ],
+    "coefficient_median": 0.41740421486957713,
+    "failures": 2,
+    "reps_completed": 998,
+    "reps_requested": 1000,
+    "seed": 20260831,
+    "share_positive": 0.9709418837675351
+  },
+  "beta_binomial_party_fixed_effects": {
+    "coefficient_ci95": [
+      -0.015457580675364957,
+      0.8396326961390539
+    ],
+    "coefficient_log_odds": 0.41208755773184447,
+    "concentration": 17.200107844813772,
+    "log_likelihood": -305.8823773758786,
+    "odds_ratio": 1.5099666397950837,
+    "odds_ratio_ci95": [
+      0.9846612745321062,
+      2.31551632248102
+    ],
+    "standard_error": 0.21813527469755584,
+    "wald_p": 0.058873388205141305
+  },
+  "design": {
+    "design_columns": [
+      "intercept",
+      "align_rank_c",
+      "group::DR",
+      "group::ECOS",
+      "group::EPR",
+      "group::GDR",
+      "group::HOR",
+      "group::LFI-NFP",
+      "group::LIOT",
+      "group::RN",
+      "group::SOC",
+      "group::UDDPLR"
+    ],
+    "mentions_max": 4297,
+    "mentions_median": 39.5,
+    "mentions_min": 10,
+    "n_articles": 15716,
+    "n_mps": 90,
+    "n_pairs": 16423
+  },
+  "equal_mp_rank_robustness": {
+    "association": 0.17758787557915529,
+    "n_mps": 90,
+    "party_stratified_ci95": [
+      -0.07636882879419629,
+      0.35730505021639813
+    ],
+    "permutation_p": 0.11489425528723564,
+    "source": "estimand_audit_out/h3_estimand_audit.json"
+  },
+  "headline_binomial_glm": {
+    "article_cluster": {
+      "coefficient_ci95": [
+        0.2332075992475584,
+        0.5503910940662345
+      ],
+      "odds_ratio_ci95": [
+        1.2626435759770938,
+        1.7339310154097323
+      ],
+      "p": 1.2843485472614115e-06,
+      "standard_error": 0.08091415684149901
+    },
+    "coefficient_log_odds": 0.3917993466568965,
+    "mp_cluster": {
+      "coefficient_ci95": [
+        -0.1259618654605999,
+        0.9095605587743929
+      ],
+      "odds_ratio_ci95": [
+        0.8816484674005757,
+        2.4832310594828217
+      ],
+      "p": 0.13802985374408847,
+      "standard_error": 0.26416388373341654
+    },
+    "n_articles": 15716,
+    "n_mps": 90,
+    "n_pairs": 16423,
+    "odds_ratio": 1.4796407867433694,
+    "two_way_mp_article": {
+      "coefficient_ci95": [
+        -0.12613098269828765,
+        0.9097296760120805
+      ],
+      "odds_ratio_ci95": [
+        0.8814993780543018,
+        2.4836510521731423
+      ],
+      "p": 0.13815853795303712,
+      "standard_error": 0.26425016803835927
+    }
+  },
+  "rank_precision_benchmark": {
+    "alpha": 0.05,
+    "method": "Fisher z, two-sided, independent observations",
+    "min_detectable_rho": 0.29164336573851635,
+    "n_mps": 90,
+    "power": 0.8
+  }
+}

@@ -1,0 +1,359 @@
+{
+  "audit_sample": {
+    "n_units": 440
+  },
+  "bootstrap": {
+    "group::DR": {
+      "ci95": [
+        -0.03531739447261933,
+        0.20020032356914344
+      ],
+      "positive_share": 0.92425
+    },
+    "group::ECOS": {
+      "ci95": [
+        0.02050279956421206,
+        0.23421753505804804
+      ],
+      "positive_share": 0.99475
+    },
+    "group::EPR": {
+      "ci95": [
+        -0.05812400309106201,
+        0.08323474324844396
+      ],
+      "positive_share": 0.63675
+    },
+    "group::LFI-NFP": {
+      "ci95": [
+        -0.08315782499965395,
+        0.11639271625281855
+      ],
+      "positive_share": 0.662
+    },
+    "group::RN": {
+      "ci95": [
+        -0.13191169655371127,
+        -0.0189290565903933
+      ],
+      "positive_share": 0.005
+    },
+    "group::SOC": {
+      "ci95": [
+        -0.15007176653290838,
+        0.032556502968414766
+      ],
+      "positive_share": 0.10375
+    },
+    "group::UDDPLR": {
+      "ci95": [
+        -0.18549485609867072,
+        0.06822044489219682
+      ],
+      "positive_share": 0.17775
+    },
+    "left_minus_right_bias": {
+      "ci95": [
+        -0.02798247449565091,
+        0.12820770917915725
+      ],
+      "positive_share": 0.8945
+    }
+  },
+  "by_group": {
+    "DEM": {
+      "human_net_tone": 0.09965682619957113,
+      "model_minus_human_bias": -0.09965682619957113,
+      "model_net_tone": 0.0,
+      "n": 5,
+      "role_accuracy": 0.8006863476008577,
+      "sentiment_accuracy": 0.9003431738004289
+    },
+    "DR": {
+      "human_net_tone": -0.22596730185219932,
+      "model_minus_human_bias": 0.08222232657507997,
+      "model_net_tone": -0.14374497527711935,
+      "n": 39,
+      "role_accuracy": 0.7062780093673617,
+      "sentiment_accuracy": 0.8531728100213901
+    },
+    "ECOS": {
+      "human_net_tone": -0.28744172991746303,
+      "model_minus_human_bias": 0.11653698328102384,
+      "model_net_tone": -0.17090474663643918,
+      "n": 28,
+      "role_accuracy": 0.7814422210063886,
+      "sentiment_accuracy": 0.8834630167189764
+    },
+    "EPR": {
+      "human_net_tone": -0.0722720105085253,
+      "model_minus_human_bias": 0.011836249972040547,
+      "model_net_tone": -0.06043576053648475,
+      "n": 83,
+      "role_accuracy": 0.788125721820049,
+      "sentiment_accuracy": 0.8493762432477613
+    },
+    "GDR": {
+      "human_net_tone": 0.24978723404255315,
+      "model_minus_human_bias": 0.24978723404255315,
+      "model_net_tone": 0.4995744680851063,
+      "n": 2,
+      "role_accuracy": 0.7497872340425532,
+      "sentiment_accuracy": 0.7502127659574467
+    },
+    "HOR": {
+      "human_net_tone": 0.0,
+      "model_minus_human_bias": 0.0,
+      "model_net_tone": 0.0,
+      "n": 2,
+      "role_accuracy": 1.0,
+      "sentiment_accuracy": 1.0
+    },
+    "LFI-NFP": {
+      "human_net_tone": -0.2742558529506966,
+      "model_minus_human_bias": 0.01962498258688328,
+      "model_net_tone": -0.2546308703638133,
+      "n": 74,
+      "role_accuracy": 0.8032920977429968,
+      "sentiment_accuracy": 0.8451853729734675
+    },
+    "LIOT": {
+      "human_net_tone": 0.06334506390072235,
+      "model_minus_human_bias": 0.06334506390072235,
+      "model_net_tone": 0.1266901278014447,
+      "n": 2,
+      "role_accuracy": 0.5633450639007223,
+      "sentiment_accuracy": 0.9366549360992775
+    },
+    "NI": {
+      "human_net_tone": -0.7335523864367738,
+      "model_minus_human_bias": 0.26644761356322616,
+      "model_net_tone": -0.4671047728735477,
+      "n": 5,
+      "role_accuracy": 0.7335523864367738,
+      "sentiment_accuracy": 0.7335523864367738
+    },
+    "RN": {
+      "human_net_tone": -0.163330871610039,
+      "model_minus_human_bias": -0.0713558504420242,
+      "model_net_tone": -0.2346867220520632,
+      "n": 102,
+      "role_accuracy": 0.8867084290052533,
+      "sentiment_accuracy": 0.8811597718170507
+    },
+    "SOC": {
+      "human_net_tone": -0.07534226223654586,
+      "model_minus_human_bias": -0.05890694837908395,
+      "model_net_tone": -0.1342492106156298,
+      "n": 54,
+      "role_accuracy": 0.803241550011923,
+      "sentiment_accuracy": 0.828001943464937
+    },
+    "UDDPLR": {
+      "human_net_tone": -0.2666183524917949,
+      "model_minus_human_bias": -0.059212069520500565,
+      "model_net_tone": -0.3258304220122955,
+      "n": 43,
+      "role_accuracy": 0.8120684851706313,
+      "sentiment_accuracy": 0.8274731064231581
+    },
+    "nan": {
+      "human_net_tone": 0.0,
+      "model_minus_human_bias": 1.0,
+      "model_net_tone": 1.0,
+      "n": 1,
+      "role_accuracy": 0.5,
+      "sentiment_accuracy": 0.0
+    }
+  },
+  "by_side": {
+    "left": {
+      "human_net_tone": -0.2012026135235505,
+      "model_minus_human_bias": 0.012185510480989509,
+      "model_net_tone": -0.18901710304256103,
+      "n": 158,
+      "role_accuracy": 0.7988329234789558,
+      "sentiment_accuracy": 0.8445976778724997
+    },
+    "other": {
+      "human_net_tone": -0.08585901734443782,
+      "model_minus_human_bias": 0.02792106553892672,
+      "model_net_tone": -0.0579379518055111,
+      "n": 98,
+      "role_accuracy": 0.78512458854258,
+      "sentiment_accuracy": 0.8425355570599701
+    },
+    "right": {
+      "human_net_tone": -0.19737690877907776,
+      "model_minus_human_bias": -0.03776014796605798,
+      "model_net_tone": -0.2351370567451358,
+      "n": 184,
+      "role_accuracy": 0.8347483739283215,
+      "sentiment_accuracy": 0.8643883255126387
+    }
+  },
+  "design": {
+    "bootstrap": "4000 stratified resamples; seed 20260831",
+    "human_inputs": "headline and target MP name; no parliamentary group or bloc",
+    "model_inputs": "headline, target MP name, and parliamentary group",
+    "n_units": 440,
+    "weighting": "inverse probability by model sentiment x dominant frame"
+  },
+  "propagation": {
+    "group_levels": [
+      {
+        "bias_adjusted_net_tone": null,
+        "bias_ci95": null,
+        "estimated_bias": null,
+        "group": "DEM",
+        "human_sample_n": 5,
+        "observed_net_tone": -0.01953125,
+        "population_n": 256
+      },
+      {
+        "bias_adjusted_net_tone": -0.2370650162727974,
+        "bias_ci95": [
+          -0.03531739447261933,
+          0.20020032356914344
+        ],
+        "estimated_bias": 0.08222232657507997,
+        "group": "DR",
+        "human_sample_n": 39,
+        "observed_net_tone": -0.15484268969771744,
+        "population_n": 1621
+      },
+      {
+        "bias_adjusted_net_tone": -0.24094643209992148,
+        "bias_ci95": [
+          0.02050279956421206,
+          0.23421753505804804
+        ],
+        "estimated_bias": 0.11653698328102384,
+        "group": "ECOS",
+        "human_sample_n": 28,
+        "observed_net_tone": -0.12440944881889764,
+        "population_n": 1270
+      },
+      {
+        "bias_adjusted_net_tone": -0.0682765964375337,
+        "bias_ci95": [
+          -0.05812400309106201,
+          0.08323474324844396
+        ],
+        "estimated_bias": 0.011836249972040547,
+        "group": "EPR",
+        "human_sample_n": 83,
+        "observed_net_tone": -0.05644034646549315,
+        "population_n": 3579
+      },
+      {
+        "bias_adjusted_net_tone": null,
+        "bias_ci95": null,
+        "estimated_bias": null,
+        "group": "GDR",
+        "human_sample_n": 2,
+        "observed_net_tone": 0.04918032786885246,
+        "population_n": 61
+      },
+      {
+        "bias_adjusted_net_tone": null,
+        "bias_ci95": null,
+        "estimated_bias": null,
+        "group": "HOR",
+        "human_sample_n": 2,
+        "observed_net_tone": -0.042735042735042736,
+        "population_n": 117
+      },
+      {
+        "bias_adjusted_net_tone": -0.3006707342208702,
+        "bias_ci95": [
+          -0.08315782499965395,
+          0.11639271625281855
+        ],
+        "estimated_bias": 0.01962498258688328,
+        "group": "LFI-NFP",
+        "human_sample_n": 74,
+        "observed_net_tone": -0.28104575163398693,
+        "population_n": 3060
+      },
+      {
+        "bias_adjusted_net_tone": null,
+        "bias_ci95": null,
+        "estimated_bias": null,
+        "group": "LIOT",
+        "human_sample_n": 2,
+        "observed_net_tone": -0.043010752688172046,
+        "population_n": 186
+      },
+      {
+        "bias_adjusted_net_tone": null,
+        "bias_ci95": null,
+        "estimated_bias": null,
+        "group": "NI",
+        "human_sample_n": 5,
+        "observed_net_tone": -0.4260869565217391,
+        "population_n": 115
+      },
+      {
+        "bias_adjusted_net_tone": -0.22383270612494588,
+        "bias_ci95": [
+          -0.13191169655371127,
+          -0.0189290565903933
+        ],
+        "estimated_bias": -0.0713558504420242,
+        "group": "RN",
+        "human_sample_n": 102,
+        "observed_net_tone": -0.2951885565669701,
+        "population_n": 5383
+      },
+      {
+        "bias_adjusted_net_tone": -0.044850949858362,
+        "bias_ci95": [
+          -0.15007176653290838,
+          0.032556502968414766
+        ],
+        "estimated_bias": -0.05890694837908395,
+        "group": "SOC",
+        "human_sample_n": 54,
+        "observed_net_tone": -0.10375789823744595,
+        "population_n": 3007
+      },
+      {
+        "bias_adjusted_net_tone": -0.07361235796041546,
+        "bias_ci95": [
+          -0.18549485609867072,
+          0.06822044489219682
+        ],
+        "estimated_bias": -0.059212069520500565,
+        "group": "UDDPLR",
+        "human_sample_n": 43,
+        "observed_net_tone": -0.13282442748091602,
+        "population_n": 1310
+      },
+      {
+        "bias_adjusted_net_tone": null,
+        "bias_ci95": null,
+        "estimated_bias": null,
+        "group": "nan",
+        "human_sample_n": 1,
+        "observed_net_tone": 0.3333333333333333,
+        "population_n": 15
+      }
+    ],
+    "left_minus_right_bias": 0.049945658447047486,
+    "left_minus_right_bias_ci95": [
+      -0.02798247449565091,
+      0.12820770917915725
+    ],
+    "outlet_asymmetry_constant_shift": -0.049945658447047486,
+    "outlet_ideology_rho_observed": -0.83,
+    "outlet_ideology_rho_side_adjusted": -0.83,
+    "outlet_panel_n": 25,
+    "scope": "The benchmark bounds differential model error against coders blinded to group; it is not a causal reannotation of the same model with group removed.",
+    "side_bias": {
+      "left": 0.012185510480989509,
+      "other": 0.02792106553892672,
+      "right": -0.03776014796605798
+    }
+  }
+}

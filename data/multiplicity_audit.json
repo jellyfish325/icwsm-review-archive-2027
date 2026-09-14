@@ -1,0 +1,28 @@
+{
+  "family_definition": "Three central cross-outlet ideology-gradient claims in Results: directed tone, conflict framing, and morality framing.",
+  "method": "Holm-Bonferroni, two-sided raw Spearman p-values, familywise alpha 0.05",
+  "nominal_exploratory_outputs": [
+    "per-outlet left/right tone comparisons",
+    "economic and human-interest frame gradients",
+    "tone/conflict-asymmetry coupling",
+    "pooled left/right tone contrast",
+    "within-role and role-standardised gradients",
+    "leave-one-out, alternate-label, scale-ablation, capture, and placement sensitivities",
+    "all MP-level rank, temporal, lagged, subgroup, covariate-adjusted, beta-binomial, and headline-binomial tests"
+  ],
+  "selection_timing": "Defined during the 2026-08-31 revision; not preregistered and therefore descriptive rather than confirmatory.",
+  "tests": {
+    "conflict_frame_outlet_ideology": {
+      "holm_adjusted_p": 0.007926880008502576,
+      "raw_p": 0.007926880008502576
+    },
+    "directed_tone_outlet_ideology": {
+      "holm_adjusted_p": 8.614023123768383e-07,
+      "raw_p": 2.871341041256128e-07
+    },
+    "morality_frame_outlet_ideology": {
+      "holm_adjusted_p": 0.00011658803400376237,
+      "raw_p": 5.829401700188119e-05
+    }
+  }
+}

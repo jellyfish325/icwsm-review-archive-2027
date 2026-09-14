@@ -1,0 +1,203 @@
+{
+  "acquisition": {
+    "all_categories": true,
+    "deduplication": "database unique (outlet_id,norm_url); extraction unique (article_id,target_uid); syndicated cross-outlet publication retained",
+    "raw_article_records": 1246606,
+    "source": "project longitudinal crawler database nexus_scraped_articles",
+    "window": [
+      "2024-07-18",
+      "2026-06-24"
+    ]
+  },
+  "capture_diagnostics": {
+    "expected_outlet_month_cells": 696,
+    "limitation": "Database volume is a continuity diagnostic, not a denominator of all articles actually published; source-side capture recall is not directly observed.",
+    "low_volume_cells": [
+      {
+        "articles": 1258,
+        "median": 2810.0,
+        "month": "2026-01",
+        "outlet": "Le Monde",
+        "ratio": 0.44768683274021354
+      },
+      {
+        "articles": 1054,
+        "median": 2810.0,
+        "month": "2026-02",
+        "outlet": "Le Monde",
+        "ratio": 0.37508896797153024
+      },
+      {
+        "articles": 1113,
+        "median": 2810.0,
+        "month": "2026-03",
+        "outlet": "Le Monde",
+        "ratio": 0.39608540925266905
+      },
+      {
+        "articles": 1134,
+        "median": 2810.0,
+        "month": "2026-04",
+        "outlet": "Le Monde",
+        "ratio": 0.40355871886121
+      },
+      {
+        "articles": 1148,
+        "median": 2810.0,
+        "month": "2026-05",
+        "outlet": "Le Monde",
+        "ratio": 0.4085409252669039
+      },
+      {
+        "articles": 480,
+        "median": 1442.0,
+        "month": "2025-07",
+        "outlet": "Le Point",
+        "ratio": 0.332871012482663
+      },
+      {
+        "articles": 666,
+        "median": 1442.0,
+        "month": "2026-04",
+        "outlet": "Le Point",
+        "ratio": 0.4618585298196949
+      },
+      {
+        "articles": 403,
+        "median": 915.5,
+        "month": "2026-03",
+        "outlet": "JDD",
+        "ratio": 0.440196613872201
+      },
+      {
+        "articles": 425,
+        "median": 915.5,
+        "month": "2026-05",
+        "outlet": "JDD",
+        "ratio": 0.4642271982523211
+      },
+      {
+        "articles": 1091,
+        "median": 2687.0,
+        "month": "2025-05",
+        "outlet": "Les Echos",
+        "ratio": 0.4060290286564942
+      },
+      {
+        "articles": 1260,
+        "median": 2687.0,
+        "month": "2026-04",
+        "outlet": "Les Echos",
+        "ratio": 0.46892445106066244
+      },
+      {
+        "articles": 593,
+        "median": 2161.0,
+        "month": "2026-04",
+        "outlet": "CNEWS",
+        "ratio": 0.2744099953725127
+      },
+      {
+        "articles": 1049,
+        "median": 2161.0,
+        "month": "2026-05",
+        "outlet": "CNEWS",
+        "ratio": 0.4854234150856085
+      },
+      {
+        "articles": 358,
+        "median": 1334.0,
+        "month": "2026-01",
+        "outlet": "RFI",
+        "ratio": 0.2683658170914543
+      },
+      {
+        "articles": 335,
+        "median": 1334.0,
+        "month": "2026-02",
+        "outlet": "RFI",
+        "ratio": 0.25112443778110943
+      },
+      {
+        "articles": 374,
+        "median": 1334.0,
+        "month": "2026-03",
+        "outlet": "RFI",
+        "ratio": 0.280359820089955
+      },
+      {
+        "articles": 448,
+        "median": 1334.0,
+        "month": "2026-04",
+        "outlet": "RFI",
+        "ratio": 0.335832083958021
+      },
+      {
+        "articles": 256,
+        "median": 1334.0,
+        "month": "2026-05",
+        "outlet": "RFI",
+        "ratio": 0.191904047976012
+      },
+      {
+        "articles": 8,
+        "median": 37.0,
+        "month": "2024-08",
+        "outlet": "Blast",
+        "ratio": 0.21621621621621623
+      },
+      {
+        "articles": 16,
+        "median": 37.0,
+        "month": "2026-04",
+        "outlet": "Blast",
+        "ratio": 0.43243243243243246
+      }
+    ],
+    "low_volume_definition": "interior month <50% of that outlet's 2024-08--2026-05 monthly median",
+    "missing_outlet_month_cells": [],
+    "observed_outlet_month_cells": 696
+  },
+  "panel_rule": {
+    "database_outlets": 31,
+    "excluded": {
+      "Fdesouche": "aggregator rather than an original newsroom",
+      "Le Canard Encha\u00een\u00e9": "not in the independently defined FrId\u00e9o outlet universe"
+    },
+    "frideo_universe": 30,
+    "intersection_after_name_normalization": 30,
+    "study_outlets": 29
+  },
+  "sensitivity": {
+    "baseline": {
+      "n_outlets": 25,
+      "rho": -0.83
+    },
+    "common_complete_months_2024-08_to_2026-05": {
+      "n_outlets": 25,
+      "rho": -0.8161538461538461
+    },
+    "excluding_flagged_outlet_months": {
+      "n_outlets": 25,
+      "rho": -0.823076923076923
+    },
+    "leave_one_outlet_type_out": {
+      "broadcast": {
+        "n_outlets": 21,
+        "rho": -0.8220779220779221
+      },
+      "daily": {
+        "n_outlets": 15,
+        "rho": -0.8678571428571429
+      },
+      "digital_native": {
+        "n_outlets": 22,
+        "rho": -0.811405985319029
+      },
+      "weekly_magazine": {
+        "n_outlets": 17,
+        "rho": -0.7843137254901962
+      }
+    }
+  }
+}

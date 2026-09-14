@@ -1,0 +1,154 @@
+{
+  "label": {
+    "agreement_tiers": {
+      "full_disagree_1_1_1": 192,
+      "full_disagree_pct": 0.0096,
+      "majority_2_1": 5572,
+      "majority_pct": 0.2789,
+      "n": 19981,
+      "unanimous_3_0": 14217,
+      "unanimous_pct": 0.7115
+    },
+    "alpha_ordinal_ci95": [
+      0.6487,
+      0.6653
+    ],
+    "confusion_gpt_oss_vs": {
+      "llama": [
+        [
+          3803,
+          1802,
+          88
+        ],
+        [
+          576,
+          11336,
+          427
+        ],
+        [
+          52,
+          751,
+          1146
+        ]
+      ],
+      "mistral": [
+        [
+          4136,
+          1495,
+          62
+        ],
+        [
+          1301,
+          10562,
+          476
+        ],
+        [
+          140,
+          974,
+          835
+        ]
+      ]
+    },
+    "fleiss_kappa": 0.6054,
+    "krippendorff_alpha_nominal": 0.6054,
+    "krippendorff_alpha_ordinal": 0.6571,
+    "pairwise_cohen_quadratic": {
+      "gpt_oss|llama": 0.6758,
+      "gpt_oss|mistral": 0.6117,
+      "mistral|llama": 0.6716
+    },
+    "pairwise_cohen_unweighted": {
+      "gpt_oss|llama": 0.6296,
+      "gpt_oss|mistral": 0.5644,
+      "mistral|llama": 0.6264
+    },
+    "per_rater_marginals": {
+      "gpt_oss": {
+        "neg": 5693,
+        "neu": 12339,
+        "pos": 1949
+      },
+      "llama": {
+        "neg": 4431,
+        "neu": 13889,
+        "pos": 1661
+      },
+      "mistral": {
+        "neg": 5577,
+        "neu": 13031,
+        "pos": 1373
+      }
+    },
+    "raw_3way_agreement": 0.7115
+  },
+  "majority_parquet": {
+    "path": "population_study_majority.parquet",
+    "rows": 19981
+  },
+  "majority_vote": {
+    "n_role_had_missing_cell": 5,
+    "n_ties_label": 192,
+    "n_ties_role": 289,
+    "n_units": 19981
+  },
+  "n_boot": 1000,
+  "n_units": 19981,
+  "q1_verdict": "USABLE-WITH-CAVEAT (0.50-0.70)",
+  "raters": [
+    "gpt_oss",
+    "mistral",
+    "llama"
+  ],
+  "role": {
+    "agreement_tiers_incl_missing": {
+      "full_disagree_1_1_1": 289,
+      "full_disagree_pct": 0.0145,
+      "majority_2_1": 6618,
+      "majority_pct": 0.3312,
+      "n": 19981,
+      "unanimous_3_0": 13074,
+      "unanimous_pct": 0.6543
+    },
+    "agreement_tiers_valid_only": {
+      "full_disagree_1_1_1": 288,
+      "full_disagree_pct": 0.0144,
+      "majority_2_1": 6614,
+      "majority_pct": 0.3311,
+      "n": 19976,
+      "unanimous_3_0": 13074,
+      "unanimous_pct": 0.6545
+    },
+    "fleiss_kappa_complete_case": 0.6442,
+    "krippendorff_alpha_nominal": 0.6442,
+    "n_complete_case": 19976,
+    "n_missing_per_rater": {
+      "gpt_oss": 0,
+      "llama": 0,
+      "mistral": 5
+    },
+    "pairwise_cohen_unweighted_complete_case": {
+      "gpt_oss|llama": 0.713,
+      "gpt_oss|mistral": 0.5773,
+      "mistral|llama": 0.6496
+    },
+    "per_rater_marginals": {
+      "gpt_oss": {
+        "agent": 6304,
+        "patient": 5986,
+        "source": 7691
+      },
+      "llama": {
+        "agent": 6286,
+        "patient": 6083,
+        "source": 7612
+      },
+      "mistral": {
+        "agent": 9555,
+        "patient": 4190,
+        "source": 6231
+      }
+    },
+    "raw_3way_agreement_complete_case": 0.6545
+  },
+  "seed": 42
+}

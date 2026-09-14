@@ -1,0 +1,1941 @@
+pair_id,outlet,target_bloc,sampling_side,label_with_group,label_without_group
+102878::PA795076,L'Humanité,left,left,neu,neu
+102666::PA719930,L'Humanité,left,left,neu,neu
+121068::PA610968,L'Humanité,left,left,pos,pos
+128719::PA609332,L'Humanité,left,left,pos,pos
+129624::PA719930,L'Humanité,left,left,pos,neu
+126743::PA609332,L'Humanité,left,left,neg,neg
+173917::PA793444,L'Humanité,left,left,neu,neu
+103383::PA795010,L'Humanité,left,left,neu,neu
+128732::PA1654,L'Humanité,left,left,neu,neu
+139995::PA795746,L'Humanité,left,left,neu,neu
+1801919::PA721202,L'Humanité,left,left,neu,neu
+1540101::PA793444,L'Humanité,left,left,neu,neu
+165252::PA795318,L'Humanité,left,left,neu,neg
+1804500::PA722142,L'Humanité,left,left,neu,neu
+252943::PA721202,L'Humanité,left,left,neu,neu
+1844445::PA588884,L'Humanité,left,left,neu,pos
+258624::PA721202,L'Humanité,left,left,neu,neu
+1808669::PA842105,L'Humanité,left,left,neu,neu
+3587164::PA795876,L'Humanité,left,left,neu,neu
+258057::PA842105,L'Humanité,left,left,neu,neu
+197270::PA333285,L'Humanité,left,left,neu,neu
+260674::PA795998,L'Humanité,left,left,neu,neu
+4479062::PA1654,L'Humanité,left,left,neu,neu
+4480543::PA721270,L'Humanité,left,left,neu,neu
+4479091::PA795318,L'Humanité,left,left,neu,neu
+4564500::PA721896,L'Humanité,left,left,neu,neu
+4565240::PA722142,L'Humanité,left,left,neu,neu
+4478941::PA791812,L'Humanité,left,left,neu,neu
+4569303::PA719930,L'Humanité,left,left,neu,neu
+4923291::PA722142,L'Humanité,left,left,neg,neg
+4577390::PA795596,L'Humanité,left,left,neu,neu
+573842::PA793174,L'Humanité,left,left,neu,neu
+574200::PA736201,L'Humanité,left,left,neu,neu
+5001935::PA795076,L'Humanité,left,left,neg,neg
+574500::PA842271,L'Humanité,left,left,neu,neu
+574561::PA793736,L'Humanité,left,left,neu,neu
+78721::PA793464,L'Humanité,left,left,neg,neg
+98267::PA795010,L'Humanité,left,left,neu,neu
+100706::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+103120::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+135553::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+1802832::PA841207,L'Humanité,right,right_or_far_right,neu,neu
+169946::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+1802939::PA841207,L'Humanité,right,right_or_far_right,neg,neg
+138228::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+105884::PA267285,L'Humanité,right,right_or_far_right,neg,neu
+1801787::PA720614,L'Humanité,far_right,right_or_far_right,neg,neu
+195259::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+251642::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+251704::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+251838::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+251815::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+197264::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+251775::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+251927::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+258328::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+197505::PA720614,L'Humanité,far_right,right_or_far_right,pos,pos
+3586994::PA330240,L'Humanité,right,right_or_far_right,neg,neg
+3607980::PA330240,L'Humanité,right,right_or_far_right,neu,neu
+3592497::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+251905::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+251620::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+252926::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+4480117::PA841207,L'Humanité,right,right_or_far_right,neg,neg
+4576048::PA841207,L'Humanité,right,right_or_far_right,neg,neg
+4567024::PA841207,L'Humanité,right,right_or_far_right,neg,neg
+4566896::PA841207,L'Humanité,right,right_or_far_right,neg,neg
+4560195::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+93252::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+93215::PA720614,L'Humanité,far_right,right_or_far_right,neg,neg
+4479764::PA841207,L'Humanité,right,right_or_far_right,neu,neu
+4478703::PA330240,L'Humanité,right,right_or_far_right,neu,neu
+1794865::PA842155,Mediapart,left,left,neu,neu
+1796895::PA842105,Mediapart,left,left,neg,neg
+93165::PA330240,L'Humanité,right,right_or_far_right,neu,neu
+93637::PA795552,L'Humanité,far_right,right_or_far_right,neu,neu
+1882439::PA721210,Mediapart,left,left,neu,neu
+575401::PA267285,L'Humanité,right,right_or_far_right,neg,neu
+1878592::PA721202,Mediapart,left,left,neu,neu
+1876657::PA1654,Mediapart,left,left,neg,neg
+1886688::PA795318,Mediapart,left,left,neu,neu
+1862506::PA1654,Mediapart,left,left,neu,neu
+1862501::PA1654,Mediapart,left,left,neu,neu
+1879457::PA719930,Mediapart,left,left,pos,neu
+1890993::PA722142,Mediapart,left,left,pos,neu
+1910730::PA842105,Mediapart,left,left,neu,neu
+1927280::PA720892,Mediapart,left,left,neu,neu
+1940001::PA795310,Mediapart,left,left,neu,neu
+1903952::PA721210,Mediapart,left,left,neu,neu
+1943807::PA841295,Mediapart,left,left,neu,neu
+1946848::PA721896,Mediapart,left,left,neu,neu
+1907541::PA719930,Mediapart,left,left,pos,pos
+1916927::PA1654,Mediapart,left,left,neg,neu
+1915608::PA795596,Mediapart,left,left,neu,neu
+1948984::PA588884,Mediapart,left,left,neu,neu
+1954023::PA609332,Mediapart,left,left,neu,neu
+1970415::PA609332,Mediapart,left,left,pos,pos
+1945444::PA609332,Mediapart,left,left,neu,neu
+2222349::PA794130,Mediapart,left,left,neg,neg
+2244179::PA793624,Mediapart,left,left,pos,pos
+1961979::PA722142,Mediapart,left,left,neu,neg
+4474306::PA791812,Mediapart,left,left,neu,neg
+4388462::PA609332,Mediapart,left,left,pos,pos
+1971433::PA842155,Mediapart,left,left,neu,neu
+4477701::PA841729,Mediapart,left,left,pos,pos
+2215959::PA722142,Mediapart,left,left,neu,neu
+4563681::PA722142,Mediapart,left,left,neu,neu
+4581615::PA840903,Mediapart,left,left,neu,neu
+4582702::PA791812,Mediapart,left,left,neg,neg
+4912202::PA795876,Mediapart,left,left,neu,neu
+4927444::PA796090,Mediapart,left,left,pos,pos
+1792644::PA841495,Mediapart,far_right,right_or_far_right,neg,neg
+1791666::PA720614,Mediapart,far_right,right_or_far_right,neg,neu
+2179651::PA795310,Mediapart,left,left,neu,neu
+2184820::PA609332,Mediapart,left,left,neu,neu
+2196673::PA791812,Mediapart,left,left,neg,neg
+1792244::PA330240,Mediapart,right,right_or_far_right,neg,neg
+1793111::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1793223::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1865711::PA330240,Mediapart,right,right_or_far_right,neg,neg
+1890242::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1858040::PA720614,Mediapart,far_right,right_or_far_right,neu,neu
+1914990::PA794670,Mediapart,far_right,right_or_far_right,neg,neg
+1917573::PA720614,Mediapart,far_right,right_or_far_right,neu,neu
+1931182::PA720614,Mediapart,far_right,right_or_far_right,neg,neu
+1793126::PA720614,Mediapart,far_right,right_or_far_right,pos,pos
+1937666::PA720614,Mediapart,far_right,right_or_far_right,neu,neu
+1950626::PA840809,Mediapart,right,right_or_far_right,neu,neu
+1794470::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1890245::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1889812::PA720614,Mediapart,far_right,right_or_far_right,neu,neu
+2171390::PA267285,Mediapart,right,right_or_far_right,neu,neu
+1961976::PA267285,Mediapart,right,right_or_far_right,neg,neg
+2175819::PA267285,Mediapart,right,right_or_far_right,neg,neg
+2186337::PA267285,Mediapart,right,right_or_far_right,neg,neg
+1943940::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1970550::PA840809,Mediapart,right,right_or_far_right,neg,neg
+1954167::PA794598,Mediapart,far_right,right_or_far_right,neg,neg
+2206678::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1943806::PA795912,Mediapart,far_right,right_or_far_right,neu,neg
+2192969::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+2212490::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+2192626::PA330008,Mediapart,right,right_or_far_right,neu,neu
+2204590::PA720822,Mediapart,far_right,right_or_far_right,neg,neg
+2197388::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+2216646::PA720614,Mediapart,far_right,right_or_far_right,neu,neu
+2221499::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+2237031::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+2174026::PA267285,Mediapart,right,right_or_far_right,neg,neg
+2207289::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+4567300::PA841207,Mediapart,right,right_or_far_right,neg,neg
+1708772::PA842155,Libération,left,left,neu,neu
+1761855::PA795318,Libération,left,left,neg,neg
+1769562::PA795746,Libération,left,left,neu,neu
+1771693::PA795318,Libération,left,left,neu,neu
+1785423::PA795318,Libération,left,left,neg,neg
+1688275::PA793464,Libération,left,left,pos,pos
+2284182::PA588884,Libération,left,left,neu,neu
+4784616::PA720614,Mediapart,far_right,right_or_far_right,neg,neg
+1698780::PA610968,Libération,left,left,neu,neu
+2312346::PA793708,Libération,left,left,pos,neu
+2544550::PA609332,Libération,left,left,neg,neg
+2317466::PA722150,Libération,left,left,neg,neg
+2315793::PA793444,Libération,left,left,neu,neu
+1717542::PA609332,Libération,left,left,neg,neg
+2619253::PA720892,Libération,left,left,neu,neu
+2587610::PA1654,Libération,left,left,pos,neu
+2544428::PA609332,Libération,left,left,neg,neg
+2567425::PA719930,Libération,left,left,pos,pos
+2623862::PA722142,Libération,left,left,neu,neu
+4578493::PA267285,Mediapart,right,right_or_far_right,neg,neg
+2666578::PA609332,Libération,left,left,neg,neg
+2653313::PA826635,Libération,left,left,neu,neu
+2623947::PA721210,Libération,left,left,neu,neu
+2721945::PA793772,Libération,left,left,neg,neg
+2724799::PA841023,Libération,left,left,neu,neu
+2646995::PA609332,Libération,left,left,neu,neu
+2736137::PA1654,Libération,left,left,neg,neg
+2731210::PA609332,Libération,left,left,neu,neu
+2919435::PA719930,Libération,left,left,neu,neu
+2943485::PA793872,Libération,left,left,neg,neg
+2686446::PA609332,Libération,left,left,neu,neu
+2917605::PA609332,Libération,left,left,neu,neu
+2972354::PA722142,Libération,left,left,pos,pos
+2720645::PA720892,Libération,left,left,neu,neu
+4653952::PA722142,Libération,left,left,pos,pos
+4680381::PA721210,Libération,left,left,neu,neu
+2896894::PA795982,Libération,left,left,neu,neu
+4510895::PA609332,Libération,left,left,neu,neu
+1673978::PA720614,Libération,far_right,right_or_far_right,neg,neg
+1770546::PA267285,Libération,right,right_or_far_right,neg,neg
+1734173::PA720614,Libération,far_right,right_or_far_right,neu,neu
+1769563::PA267285,Libération,right,right_or_far_right,neg,neu
+4650467::PA722142,Libération,left,left,neu,neu
+4598303::PA1654,Libération,left,left,neg,neg
+1672709::PA720614,Libération,far_right,right_or_far_right,pos,pos
+2272656::PA720468,Libération,far_right,right_or_far_right,neu,neu
+1777215::PA267285,Libération,right,right_or_far_right,neu,neu
+2530044::PA720614,Libération,far_right,right_or_far_right,neu,neu
+2357575::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2548157::PA720614,Libération,far_right,right_or_far_right,neg,neg
+1784210::PA330240,Libération,right,right_or_far_right,neu,neu
+2549406::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2549719::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2550117::PA720614,Libération,far_right,right_or_far_right,neg,neg
+4671204::PA722142,Libération,left,left,neg,neg
+2355263::PA330240,Libération,right,right_or_far_right,neg,neg
+2556262::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2556758::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2548015::PA720614,Libération,far_right,right_or_far_right,pos,pos
+2564455::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2549486::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2627482::PA720614,Libération,far_right,right_or_far_right,neg,neu
+2635378::PA267285,Libération,right,right_or_far_right,neu,neu
+2608533::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2561895::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2692624::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2673474::PA267285,Libération,right,right_or_far_right,neg,neg
+2675121::PA720468,Libération,far_right,right_or_far_right,neu,neu
+2718036::PA330240,Libération,right,right_or_far_right,neg,neg
+2918254::PA720614,Libération,far_right,right_or_far_right,neu,neu
+2730964::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2977687::PA720614,Libération,far_right,right_or_far_right,neg,neg
+2627581::PA267285,Libération,right,right_or_far_right,pos,pos
+2898371::PA720614,Libération,far_right,right_or_far_right,neu,neu
+4504908::PA330240,Libération,right,right_or_far_right,neg,neg
+4651209::PA841207,Libération,right,right_or_far_right,neg,neg
+1181095::PA1654,Le HuffPost,left,left,neu,neu
+1083271::PA794130,Le HuffPost,left,left,neg,neg
+4920976::PA720614,Libération,far_right,right_or_far_right,neu,pos
+1181024::PA609332,Le HuffPost,left,left,neg,neg
+2979647::PA267285,Libération,right,right_or_far_right,neg,neg
+1181350::PA1654,Le HuffPost,left,left,neu,pos
+2574679::PA720614,Libération,far_right,right_or_far_right,neu,neu
+1051102::PA721210,Le HuffPost,left,left,neu,neu
+1181513::PA609332,Le HuffPost,left,left,neg,neu
+1181145::PA609332,Le HuffPost,left,left,neu,neu
+1082405::PA722142,Le HuffPost,left,left,pos,pos
+1182301::PA1654,Le HuffPost,left,left,neg,neg
+1182111::PA609332,Le HuffPost,left,left,neg,neg
+1181664::PA721202,Le HuffPost,left,left,neu,neu
+1181574::PA609332,Le HuffPost,left,left,pos,pos
+1182326::PA720892,Le HuffPost,left,left,neg,neg
+1182290::PA609332,Le HuffPost,left,left,neu,neu
+1182440::PA1654,Le HuffPost,left,left,neu,neu
+1183820::PA1654,Le HuffPost,left,left,neu,neu
+1182974::PA826635,Le HuffPost,left,left,neg,neg
+1605660::PA793872,Le HuffPost,left,left,neg,neg
+2010532::PA793464,Le HuffPost,left,left,neg,neg
+1183297::PA609332,Le HuffPost,left,left,neg,neu
+2014333::PA1654,Le HuffPost,left,left,neu,neu
+3496888::PA609332,Le HuffPost,left,left,neu,neu
+2010488::PA721202,Le HuffPost,left,left,pos,pos
+3496911::PA793464,Le HuffPost,left,left,neu,neu
+2016286::PA1654,Le HuffPost,left,left,neu,neu
+2291978::PA722142,Libération,left,left,neg,neg
+574550::PA720614,L'Humanité,far_right,right_or_far_right,neu,neu
+1890239::PA720614,Mediapart,far_right,right_or_far_right,neu,neu
+1182050::PA2940,Le HuffPost,left,left,neg,neg
+1182111::PA719930,Le HuffPost,left,left,neg,neg
+4476406::PA721896,Mediapart,left,left,neu,neu
+1182439::PA1654,Le HuffPost,left,left,neu,neu
+1183002::PA721202,Le HuffPost,left,left,neu,neu
+1183849::PA609332,Le HuffPost,left,left,neg,neg
+1786021::PA841207,Libération,right,right_or_far_right,neg,neg
+1633113::PA796090,Le HuffPost,left,left,neg,neg
+4563614::PA791812,Le HuffPost,left,left,neg,neg
+2291144::PA720614,Libération,far_right,right_or_far_right,neu,neu
+4555807::PA842105,Le HuffPost,left,left,neu,neu
+921757::PA609332,Le HuffPost,left,left,neu,neu
+4556293::PA793444,Le HuffPost,left,left,neu,neu
+1050963::PA720614,Le HuffPost,far_right,right_or_far_right,neg,neg
+4569945::PA791812,Le HuffPost,left,left,neg,neg
+951167::PA1654,Le HuffPost,left,left,neu,neu
+2016472::PA1567,Le HuffPost,left,left,neg,neg
+1130930::PA330240,Le HuffPost,right,right_or_far_right,neg,neg
+1130986::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+1131032::PA330240,Le HuffPost,right,right_or_far_right,neg,neg
+1181085::PA793166,Le HuffPost,far_right,right_or_far_right,neg,neg
+1181349::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+1050950::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+1181700::PA267285,Le HuffPost,right,right_or_far_right,neg,neu
+1181870::PA267285,Le HuffPost,right,right_or_far_right,neg,neg
+1182065::PA267285,Le HuffPost,right,right_or_far_right,neu,neu
+1181895::PA267285,Le HuffPost,right,right_or_far_right,pos,pos
+1182481::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+1181893::PA720614,Le HuffPost,far_right,right_or_far_right,neg,neg
+1182532::PA720614,Le HuffPost,far_right,right_or_far_right,neg,neg
+1181444::PA330240,Le HuffPost,right,right_or_far_right,neg,neg
+1182310::PA795552,Le HuffPost,far_right,right_or_far_right,neu,neu
+1182575::PA842279,Le HuffPost,far_right,right_or_far_right,neu,neu
+1182267::PA267285,Le HuffPost,right,right_or_far_right,neu,neu
+1181980::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neg
+1183468::PA330240,Le HuffPost,right,right_or_far_right,neu,neu
+1626990::PA368,Le HuffPost,right,right_or_far_right,neg,neg
+1182515::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+2010774::PA267285,Le HuffPost,right,right_or_far_right,neu,neu
+3898503::PA720614,Le HuffPost,far_right,right_or_far_right,neg,neg
+4560345::PA841207,Le HuffPost,right,right_or_far_right,neu,neu
+4559671::PA841207,Le HuffPost,right,right_or_far_right,pos,pos
+4561595::PA330240,Le HuffPost,right,right_or_far_right,neu,neu
+1183155::PA720614,Le HuffPost,far_right,right_or_far_right,neg,neg
+4909530::PA267285,Le HuffPost,right,right_or_far_right,neg,neg
+921728::PA346782,Le HuffPost,right,right_or_far_right,neu,neu
+4560658::PA841207,Le HuffPost,right,right_or_far_right,neu,neu
+1658970::PA1654,Le Nouvel Obs,left,left,neu,neu
+1663770::PA795076,Le Nouvel Obs,left,left,neu,neu
+1661712::PA793464,Le Nouvel Obs,left,left,neg,neg
+1666324::PA609332,Le Nouvel Obs,left,left,neu,neu
+1667657::PA842155,Le Nouvel Obs,left,left,neu,neu
+1664077::PA719930,Le Nouvel Obs,left,left,neu,neu
+4565873::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+921731::PA267285,Le HuffPost,right,right_or_far_right,pos,pos
+1673107::PA719930,Le Nouvel Obs,left,left,pos,pos
+1675065::PA722142,Le Nouvel Obs,left,left,neu,pos
+1676699::PA609332,Le Nouvel Obs,left,left,neu,neu
+1685206::PA609332,Le Nouvel Obs,left,left,neg,neg
+1691754::PA796090,Le Nouvel Obs,left,left,neg,neg
+1694207::PA794022,Le Nouvel Obs,left,left,neu,neu
+1673319::PA609332,Le Nouvel Obs,left,left,pos,pos
+1658620::PA793444,Le Nouvel Obs,left,left,neg,neg
+1737228::PA793394,Le Nouvel Obs,left,left,neu,neu
+1682178::PA841327,Le Nouvel Obs,left,left,neu,neu
+1740481::PA721202,Le Nouvel Obs,left,left,neg,neg
+1747936::PA720892,Le Nouvel Obs,left,left,neu,neu
+1740485::PA795466,Le Nouvel Obs,left,left,neu,pos
+1749232::PA1654,Le Nouvel Obs,left,left,neg,neg
+1747454::PA609332,Le Nouvel Obs,left,left,neu,neu
+1673862::PA609332,Le Nouvel Obs,left,left,pos,pos
+1739829::PA722142,Le Nouvel Obs,left,left,neg,neg
+1784977::PA719930,Le Nouvel Obs,left,left,neu,neu
+1786069::PA842105,Le Nouvel Obs,left,left,neg,neg
+1741711::PA609332,Le Nouvel Obs,left,left,neu,neu
+3491754::PA793464,Le Nouvel Obs,left,left,neg,neg
+1749503::PA609332,Le Nouvel Obs,left,left,neg,neg
+1786048::PA842105,Le Nouvel Obs,left,left,neu,neu
+1782787::PA719930,Le Nouvel Obs,left,left,neu,neu
+4473596::PA791812,Le Nouvel Obs,left,left,neu,neu
+2729987::PA795076,Le Nouvel Obs,left,left,neu,neu
+4579898::PA722142,Le Nouvel Obs,left,left,neg,neg
+1657881::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1749698::PA609332,Le Nouvel Obs,left,left,neu,neu
+4570695::PA842105,Le Nouvel Obs,left,left,neu,pos
+4474369::PA722142,Le Nouvel Obs,left,left,neu,pos
+4583358::PA722142,Le Nouvel Obs,left,left,neu,neu
+1664639::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neg
+1665829::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1657944::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1661906::PA267285,Le Nouvel Obs,right,right_or_far_right,neu,neu
+1666124::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1666048::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1666222::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1666716::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1667044::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1669970::PA267285,Le Nouvel Obs,right,right_or_far_right,neu,neu
+1676029::PA330240,Le Nouvel Obs,right,right_or_far_right,neg,neg
+1678260::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1662586::PA720614,Le Nouvel Obs,far_right,right_or_far_right,pos,pos
+1671381::PA267285,Le Nouvel Obs,right,right_or_far_right,neg,neg
+1666673::PA267285,Le Nouvel Obs,right,right_or_far_right,neg,neg
+1688154::PA330240,Le Nouvel Obs,right,right_or_far_right,neg,neg
+1667112::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1690261::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1738109::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1741547::PA643089,Le Nouvel Obs,right,right_or_far_right,pos,pos
+1685207::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1739355::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1748055::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1746492::PA267285,Le Nouvel Obs,right,right_or_far_right,neu,neu
+4474844::PA720468,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+4572291::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1741002::PA608416,Le Nouvel Obs,right,right_or_far_right,neg,neu
+1011::PA722142,Le Monde,left,left,pos,pos
+11152::PA609332,Le Monde,left,left,neu,neu
+1747450::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+4474327::PA330240,Le Nouvel Obs,right,right_or_far_right,neg,neg
+17886::PA721202,Le Monde,left,left,neu,neu
+14154::PA2940,Le Monde,left,left,neg,neu
+15503::PA721202,Le Monde,left,left,neu,neu
+182767::PA793464,Le Monde,left,left,neu,neg
+14537::PA721210,Le Monde,left,left,neu,neu
+4924933::PA330240,Le Nouvel Obs,right,right_or_far_right,neu,neu
+1890679::PA793464,Le Monde,left,left,neg,neu
+1888692::PA842105,Le Monde,left,left,neu,neu
+13850::PA609332,Le Monde,left,left,neg,neg
+18037::PA795318,Le Monde,left,left,neg,neg
+1884277::PA609332,Le Monde,left,left,neu,neu
+2499::PA609332,Le Monde,left,left,neu,neu
+258224::PA722142,Le Monde,left,left,neu,neu
+32249::PA721202,Le Monde,left,left,pos,pos
+182731::PA609332,Le Monde,left,left,neg,neg
+19532::PA795318,Le Monde,left,left,neu,neu
+190279::PA795310,Le Monde,left,left,pos,pos
+4584543::PA719930,Le Monde,left,left,neu,neu
+2561071::PA719930,Le Monde,left,left,neu,neu
+4612121::PA720892,Le Monde,left,left,neu,neu
+4638899::PA721210,Le Monde,left,left,neu,neu
+4997574::PA335999,Le Monde,left,left,pos,pos
+4579850::PA793756,Le Monde,left,left,neu,neu
+4601963::PA1567,Le Monde,left,left,neu,neu
+520862::PA609332,Le Monde,left,left,neu,neu
+522699::PA609332,Le Monde,left,left,neu,neu
+2562359::PA609332,Le Monde,left,left,neg,neg
+523023::PA722150,Le Monde,left,left,neu,neu
+4599425::PA609332,Le Monde,left,left,neu,neu
+9069::PA609332,Le Monde,left,left,pos,pos
+523925::PA609332,Le Monde,left,left,neg,neg
+522181::PA795228,Le Monde,left,left,neu,pos
+8857::PA719930,Le Monde,left,left,neu,neu
+11218::PA267285,Le Monde,right,right_or_far_right,neg,neg
+6881::PA609332,Le Monde,left,left,neg,neg
+5931::PA609332,Le Monde,left,left,neu,neu
+12949::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+10598::PA793432,Le Monde,far_right,right_or_far_right,neg,neg
+9367::PA722142,Le Monde,left,left,neu,neu
+13321::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+13255::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+1634391::PA720614,Le Monde,far_right,right_or_far_right,pos,pos
+14631::PA720614,Le Monde,far_right,right_or_far_right,neu,neg
+93327::PA609332,Le Monde,left,left,neg,neg
+13344::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+1887941::PA720614,Le Monde,far_right,right_or_far_right,neu,neg
+1888706::PA793382,Le Monde,far_right,right_or_far_right,neg,neg
+1884445::PA720614,Le Monde,far_right,right_or_far_right,pos,pos
+12764::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+17777::PA267285,Le Monde,right,right_or_far_right,neu,neu
+2533203::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+23861::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+257145::PA720614,Le Monde,far_right,right_or_far_right,neu,neu
+1887943::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+1887892::PA720614,Le Monde,far_right,right_or_far_right,neg,neu
+2573431::PA841207,Le Monde,right,right_or_far_right,neg,neg
+189880::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+2542725::PA720614,Le Monde,far_right,right_or_far_right,neg,neu
+27710::PA267285,Le Monde,right,right_or_far_right,neu,neu
+2548196::PA720614,Le Monde,far_right,right_or_far_right,neu,neu
+259852::PA795552,Le Monde,far_right,right_or_far_right,neg,neg
+2533203::PA330240,Le Monde,right,right_or_far_right,neg,neg
+607844::PA368,Le Monde,right,right_or_far_right,neu,neu
+260638::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+519946::PA720614,Le Monde,far_right,right_or_far_right,neg,neu
+67582::PA720614,Le Monde,far_right,right_or_far_right,neg,neg
+8937::PA720614,Le Monde,far_right,right_or_far_right,neu,neu
+1667147::PA722150,Marianne,left,left,neu,neu
+470581::PA267285,Le Monde,right,right_or_far_right,neu,neu
+1668698::PA795318,Marianne,left,left,neg,neg
+1668921::PA795318,Marianne,left,left,neg,neg
+1669254::PA795318,Marianne,left,left,neg,neg
+1670062::PA722142,Marianne,left,left,neu,neu
+1672487::PA795318,Marianne,left,left,neg,neg
+9134::PA330240,Le Monde,right,right_or_far_right,neu,neu
+1671675::PA721202,Marianne,left,left,neu,neu
+518524::PA794598,Le Monde,far_right,right_or_far_right,neg,neg
+1673673::PA722142,Marianne,left,left,pos,pos
+1678752::PA796090,Marianne,left,left,neg,neg
+1680160::PA793464,Marianne,left,left,neg,neg
+1670163::PA609332,Marianne,left,left,neu,neu
+1670187::PA1654,Marianne,left,left,neg,neg
+1675030::PA795076,Marianne,left,left,neg,neg
+1676205::PA721960,Marianne,left,left,neg,neu
+1688790::PA793262,Marianne,left,left,neu,neu
+1688611::PA1654,Marianne,left,left,neg,neg
+1729103::PA1654,Marianne,left,left,neu,pos
+1730809::PA722142,Marianne,left,left,neg,neg
+1690376::PA793872,Marianne,left,left,neg,neg
+1691327::PA795596,Marianne,left,left,neg,neg
+1729609::PA609332,Marianne,left,left,neg,neg
+1732857::PA1654,Marianne,left,left,neg,neu
+1734130::PA1654,Marianne,left,left,neg,neg
+1678570::PA795466,Marianne,left,left,neu,neu
+1739677::PA722142,Marianne,left,left,neu,neu
+1738911::PA721202,Marianne,left,left,neg,neg
+1738943::PA795076,Marianne,left,left,neu,neu
+1784422::PA795746,Marianne,left,left,neu,neu
+1782836::PA1654,Marianne,left,left,neg,neg
+1739427::PA608264,Marianne,left,left,neu,neu
+1784592::PA722142,Marianne,left,left,neg,neg
+4558339::PA719930,Marianne,left,left,pos,pos
+4558749::PA609332,Marianne,left,left,neu,neu
+1782623::PA791812,Marianne,left,left,neu,neu
+4558113::PA722142,Marianne,left,left,neu,neu
+4559505::PA722142,Marianne,left,left,neg,neu
+1780719::PA722142,Marianne,left,left,neu,pos
+1051028::PA720614,Le HuffPost,far_right,right_or_far_right,neg,neg
+4558529::PA793756,L'Humanité,left,left,neu,neu
+1806958::PA842155,L'Humanité,left,left,neu,neu
+1182939::PA720614,Le HuffPost,far_right,right_or_far_right,neg,neg
+3496922::PA791812,Le HuffPost,left,left,pos,pos
+1182646::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+2576993::PA841207,L'Humanité,right,right_or_far_right,neg,neg
+3491759::PA791812,Le Nouvel Obs,left,left,neg,neg
+1690997::PA795076,Le Nouvel Obs,left,left,neu,neu
+1181954::PA267285,Le HuffPost,right,right_or_far_right,neg,neu
+1738083::PA267285,Le Nouvel Obs,right,right_or_far_right,neu,neu
+1665906::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1747459::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neu
+1748364::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neu,neg
+25306::PA794022,Le Monde,left,left,pos,pos
+1682839::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neu
+518068::PA720614,Le Monde,far_right,right_or_far_right,neu,neu
+1665973::PA720614,Le Nouvel Obs,far_right,right_or_far_right,neg,neg
+1676590::PA795466,Marianne,left,left,neg,neg
+4998242::PA722142,Marianne,left,left,neu,neu
+19486::PA794038,Le Monde,right,right_or_far_right,neg,neg
+1666404::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+29202::PA720614,Le Monde,far_right,right_or_far_right,neu,neu
+1738350::PA609332,Marianne,left,left,neg,neg
+1673727::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1666816::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1673954::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1673560::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+4891839::PA791812,Le Monde,left,left,neu,neu
+1674018::PA720614,Marianne,far_right,right_or_far_right,pos,pos
+1673982::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1676747::PA267285,Marianne,right,right_or_far_right,neg,neu
+1673559::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1676820::PA267285,Marianne,right,right_or_far_right,neg,neg
+1673875::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1674569::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1692580::PA720468,Marianne,far_right,right_or_far_right,neg,neg
+1683436::PA720614,Marianne,far_right,right_or_far_right,neg,pos
+1674581::PA720614,Marianne,far_right,right_or_far_right,neu,neg
+1690862::PA267285,Marianne,right,right_or_far_right,neu,neu
+1729770::PA330240,Marianne,right,right_or_far_right,pos,pos
+1729504::PA720614,Marianne,far_right,right_or_far_right,neg,neu
+1690860::PA267285,Marianne,right,right_or_far_right,neg,neg
+1734429::PA795552,Marianne,far_right,right_or_far_right,neg,neg
+1729482::PA267285,Marianne,right,right_or_far_right,neg,neg
+1737064::PA720614,Marianne,far_right,right_or_far_right,neg,neu
+1735841::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1739374::PA720614,Marianne,far_right,right_or_far_right,neu,neu
+1737956::PA720614,Marianne,far_right,right_or_far_right,pos,neg
+1731594::PA608416,Marianne,right,right_or_far_right,neu,neu
+1737469::PA720614,Marianne,far_right,right_or_far_right,neu,neu
+1731704::PA608416,Marianne,right,right_or_far_right,neg,neg
+1731884::PA794994,Marianne,right,right_or_far_right,neg,neg
+1732198::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1781422::PA720614,Marianne,far_right,right_or_far_right,neg,neg
+1780303::PA330240,Marianne,right,right_or_far_right,pos,neu
+1781581::PA720614,Marianne,far_right,right_or_far_right,neu,neu
+1780774::PA720614,Marianne,far_right,right_or_far_right,neu,neg
+1781202::PA720614,Marianne,far_right,right_or_far_right,neu,neu
+1740270::PA330240,Marianne,right,right_or_far_right,neg,neg
+4560059::PA720614,Marianne,far_right,right_or_far_right,pos,pos
+1672511::PA795076,Franceinfo,left,left,neu,neu
+1654391::PA795200,Franceinfo,left,left,neu,neu
+1656387::PA720892,Franceinfo,left,left,neu,neu
+1703170::PA795076,Franceinfo,left,left,neu,neu
+1712726::PA793464,Franceinfo,left,left,neg,neg
+1683980::PA719930,Franceinfo,left,left,pos,pos
+1702582::PA721960,Franceinfo,left,left,neu,neu
+1664062::PA794130,Franceinfo,left,left,neg,neg
+1717750::PA722142,Franceinfo,left,left,neu,neu
+1675974::PA609332,Franceinfo,left,left,neu,neu
+1742735::PA1654,Franceinfo,left,left,neu,neu
+1764316::PA796062,Franceinfo,left,left,neu,neu
+1684081::PA719930,Franceinfo,left,left,neu,neu
+2198533::PA609332,Franceinfo,left,left,neu,neu
+1749609::PA720892,Franceinfo,left,left,neu,neu
+2521977::PA609332,Franceinfo,left,left,neu,neu
+2358848::PA588884,Franceinfo,left,left,pos,neu
+2563596::PA842105,Franceinfo,left,left,neu,neu
+2568872::PA793756,Franceinfo,left,left,neu,neu
+2704071::PA1654,Franceinfo,left,left,neg,neg
+2705220::PA795164,Franceinfo,left,left,neu,neu
+2712006::PA720892,Franceinfo,left,left,neu,neu
+1805748::PA722142,Franceinfo,left,left,neu,neu
+4518005::PA1654,Franceinfo,left,left,neu,neu
+4516694::PA1567,Franceinfo,left,left,neu,neu
+2708122::PA794130,Franceinfo,left,left,neu,neu
+4518275::PA842105,Franceinfo,left,left,neg,neu
+4563275::PA609332,Franceinfo,left,left,neu,neu
+4614664::PA722142,Franceinfo,left,left,neu,neu
+4563608::PA720892,Franceinfo,left,left,neu,neu
+1651313::PA720614,Franceinfo,far_right,right_or_far_right,pos,neu
+1696198::PA720614,Franceinfo,far_right,right_or_far_right,pos,pos
+1692134::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+1696512::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+1697770::PA267285,Franceinfo,right,right_or_far_right,neg,neg
+1657887::PA795778,Franceinfo,far_right,right_or_far_right,neu,neu
+1696420::PA720614,Franceinfo,far_right,right_or_far_right,neg,neg
+1724936::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+1650900::PA267285,Franceinfo,right,right_or_far_right,neg,neu
+1704205::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+1744507::PA720614,Franceinfo,far_right,right_or_far_right,neg,neg
+1693965::PA720614,Franceinfo,far_right,right_or_far_right,neg,neg
+2209038::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+2523497::PA720614,Franceinfo,far_right,right_or_far_right,neg,neg
+2524132::PA720614,Franceinfo,far_right,right_or_far_right,neg,neg
+2544044::PA878242,Franceinfo,right,right_or_far_right,pos,pos
+2529126::PA720614,Franceinfo,far_right,right_or_far_right,neg,neg
+2557747::PA793432,Franceinfo,far_right,right_or_far_right,neu,neu
+2566833::PA793928,Franceinfo,far_right,right_or_far_right,neu,neu
+2696829::PA720468,Franceinfo,far_right,right_or_far_right,neu,neu
+4517068::PA795912,Franceinfo,far_right,right_or_far_right,neu,neu
+4518227::PA720468,Franceinfo,far_right,right_or_far_right,neu,neu
+4518243::PA267285,Franceinfo,right,right_or_far_right,neg,neg
+4592375::PA795912,Franceinfo,far_right,right_or_far_right,neu,neu
+2710890::PA795778,Franceinfo,far_right,right_or_far_right,neu,neu
+4602740::PA794598,Franceinfo,far_right,right_or_far_right,neu,neu
+4517057::PA795912,Franceinfo,far_right,right_or_far_right,neg,neg
+1050546::PA1654,20 Minutes,left,left,pos,pos
+5021009::PA793432,Franceinfo,far_right,right_or_far_right,neu,neu
+1836278::PA609332,20 Minutes,left,left,neu,neu
+2720910::PA720468,Franceinfo,far_right,right_or_far_right,neu,neu
+1048051::PA1654,20 Minutes,left,left,neu,neu
+1841819::PA791812,20 Minutes,left,left,neu,neu
+2614855::PA609332,20 Minutes,left,left,neg,neu
+1620806::PA609332,20 Minutes,left,left,neu,neu
+4389720::PA1654,20 Minutes,left,left,neu,neu
+4909274::PA720468,Franceinfo,far_right,right_or_far_right,neu,neu
+4485383::PA1654,20 Minutes,left,left,neg,neg
+4479198::PA791812,20 Minutes,left,left,neg,neg
+4392612::PA841327,20 Minutes,left,left,neg,neg
+4570550::PA1654,20 Minutes,left,left,neu,neu
+1841388::PA1654,20 Minutes,left,left,neu,neu
+4555832::PA719578,20 Minutes,left,left,neu,neu
+4557812::PA793444,20 Minutes,left,left,neu,neu
+894571::PA609332,20 Minutes,left,left,neg,neg
+894968::PA721202,20 Minutes,left,left,neu,neu
+895233::PA722142,20 Minutes,left,left,neu,neu
+4601127::PA793464,20 Minutes,left,left,neg,neg
+2632126::PA793444,20 Minutes,left,left,neg,neu
+4890803::PA1654,20 Minutes,left,left,neg,neg
+895902::PA609332,20 Minutes,left,left,neu,neu
+895937::PA793464,20 Minutes,left,left,neu,neu
+894700::PA609332,20 Minutes,left,left,neg,neg
+896021::PA1654,20 Minutes,left,left,neu,neu
+895961::PA1654,20 Minutes,left,left,pos,pos
+895394::PA722142,20 Minutes,left,left,neg,neg
+896247::PA1654,20 Minutes,left,left,neu,neu
+896308::PA794130,20 Minutes,left,left,neg,neg
+895618::PA793464,20 Minutes,left,left,neu,neu
+896604::PA609332,20 Minutes,left,left,neg,neg
+896903::PA1654,20 Minutes,left,left,neu,neu
+896528::PA1654,20 Minutes,left,left,neu,pos
+902882::PA795318,20 Minutes,left,left,neu,neu
+1323572::PA720614,20 Minutes,far_right,right_or_far_right,pos,pos
+1618254::PA330240,20 Minutes,right,right_or_far_right,neg,neg
+896777::PA609332,20 Minutes,left,left,pos,neu
+896866::PA793464,20 Minutes,left,left,neu,neu
+1649229::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+2528930::PA720614,20 Minutes,far_right,right_or_far_right,neg,neg
+2508191::PA720614,20 Minutes,far_right,right_or_far_right,neg,neg
+1833198::PA795912,20 Minutes,far_right,right_or_far_right,pos,neu
+1828786::PA795912,20 Minutes,far_right,right_or_far_right,pos,pos
+1323478::PA267285,20 Minutes,right,right_or_far_right,pos,pos
+1326211::PA720614,20 Minutes,far_right,right_or_far_right,neg,neg
+1826913::PA330240,20 Minutes,right,right_or_far_right,neu,neg
+894753::PA330240,20 Minutes,right,right_or_far_right,neu,neu
+895077::PA793432,20 Minutes,far_right,right_or_far_right,neu,neu
+894954::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+895133::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+895419::PA267285,20 Minutes,right,right_or_far_right,neg,neg
+895469::PA332523,20 Minutes,right,right_or_far_right,pos,pos
+3499797::PA330240,20 Minutes,right,right_or_far_right,neg,neg
+895441::PA267285,20 Minutes,right,right_or_far_right,neg,neg
+895634::PA267285,20 Minutes,right,right_or_far_right,neu,neu
+895801::PA267285,20 Minutes,right,right_or_far_right,neu,neu
+895486::PA720614,20 Minutes,far_right,right_or_far_right,neg,neg
+895599::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+895443::PA267285,20 Minutes,right,right_or_far_right,neu,neg
+895072::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+896517::PA330240,20 Minutes,right,right_or_far_right,neu,neu
+895478::PA720614,20 Minutes,far_right,right_or_far_right,neg,neg
+4570032::PA330240,20 Minutes,right,right_or_far_right,neg,neg
+896592::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+896619::PA330240,20 Minutes,right,right_or_far_right,neu,neu
+896594::PA720614,20 Minutes,far_right,right_or_far_right,pos,pos
+896730::PA720614,20 Minutes,far_right,right_or_far_right,neg,neg
+896272::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+896081::PA267285,20 Minutes,right,right_or_far_right,neu,neu
+926458::PA720614,20 Minutes,far_right,right_or_far_right,pos,pos
+896318::PA267285,20 Minutes,right,right_or_far_right,neg,neg
+2531717::PA1654,Ouest-France,left,left,neu,neu
+896654::PA330240,20 Minutes,right,right_or_far_right,neg,neg
+2544661::PA794146,Ouest-France,left,left,neu,neu
+2771779::PA609332,Ouest-France,left,left,pos,pos
+2755959::PA721202,Ouest-France,left,left,neu,neu
+2867465::PA333285,Ouest-France,left,left,neu,neu
+1741382::PA791812,Ouest-France,left,left,neg,neg
+2700131::PA794906,Ouest-France,left,left,pos,pos
+2906837::PA609332,Ouest-France,left,left,pos,pos
+2922073::PA607553,Ouest-France,left,left,pos,pos
+2906776::PA609332,Ouest-France,left,left,neu,neu
+2772238::PA609332,Ouest-France,left,left,neu,neu
+2961870::PA1654,Ouest-France,left,left,neu,neu
+2772002::PA609332,Ouest-France,left,left,pos,pos
+2941298::PA842105,Ouest-France,left,left,pos,pos
+2961870::PA793444,Ouest-France,left,left,neu,neu
+2926253::PA722142,Ouest-France,left,left,pos,pos
+3008790::PA609332,Ouest-France,left,left,neu,neu
+2938358::PA609332,Ouest-France,left,left,neu,neu
+2979668::PA609332,Ouest-France,left,left,neu,neu
+3006424::PA1654,Ouest-France,left,left,neu,neu
+1736510::PA795912,Ouest-France,far_right,right_or_far_right,neu,neu
+1763646::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2971552::PA793532,Ouest-France,left,left,neu,neu
+3020277::PA1654,Ouest-France,left,left,neu,neu
+2971586::PA335054,Ouest-France,left,left,neu,neu
+3011268::PA794130,Ouest-France,left,left,neg,neg
+1801611::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+1763168::PA720614,Ouest-France,far_right,right_or_far_right,neu,neg
+621712::PA793444,Ouest-France,left,left,neu,neu
+1805230::PA795912,Ouest-France,far_right,right_or_far_right,neu,neu
+1841452::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+1842872::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+350::PA267285,Le Monde,right,right_or_far_right,neu,neu
+1657973::PA609332,Le Nouvel Obs,left,left,neg,neg
+1714929::PA722142,Franceinfo,left,left,neu,neu
+1790664::PA721202,Franceinfo,left,left,neu,neu
+4556208::PA720614,Marianne,far_right,right_or_far_right,neu,neu
+2703738::PA609332,Franceinfo,left,left,neu,neu
+1757231::PA335999,Franceinfo,left,left,neu,neu
+2726103::PA721202,Franceinfo,left,left,neu,neu
+2723454::PA795588,Franceinfo,left,left,neu,neu
+1670458::PA267285,Marianne,right,right_or_far_right,neu,neu
+1182804::PA720614,Le HuffPost,far_right,right_or_far_right,neu,neu
+1674359::PA267285,Marianne,right,right_or_far_right,neg,neu
+1711299::PA794562,Franceinfo,far_right,right_or_far_right,neu,neu
+1748324::PA794598,Franceinfo,far_right,right_or_far_right,neu,neu
+1731271::PA330240,Franceinfo,right,right_or_far_right,neu,neu
+4516298::PA793872,Franceinfo,left,left,neu,neu
+2687248::PA609332,Franceinfo,left,left,neu,neu
+2197445::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+1703461::PA720614,Franceinfo,far_right,right_or_far_right,pos,pos
+2560149::PA795552,Franceinfo,far_right,right_or_far_right,neu,neu
+1061975::PA1654,20 Minutes,left,left,pos,pos
+4559302::PA793444,Franceinfo,left,left,neu,neu
+2546216::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+1699430::PA1654,Franceinfo,left,left,pos,neu
+2203718::PA720614,Franceinfo,far_right,right_or_far_right,neu,neu
+1693564::PA720614,Franceinfo,far_right,right_or_far_right,neg,neg
+920621::PA795228,Le HuffPost,left,left,neu,neg
+2516639::PA720614,Franceinfo,far_right,right_or_far_right,neg,neu
+895362::PA719930,20 Minutes,left,left,neu,neu
+896557::PA720614,20 Minutes,far_right,right_or_far_right,neu,neu
+896125::PA720892,20 Minutes,left,left,neu,neu
+896838::PA330240,20 Minutes,right,right_or_far_right,neu,neu
+895951::PA795076,20 Minutes,left,left,neu,neu
+1323610::PA720614,20 Minutes,far_right,right_or_far_right,neg,neg
+2778986::PA609332,Ouest-France,left,left,pos,pos
+1760525::PA791812,Ouest-France,left,left,neu,neu
+1820462::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+2526450::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2909691::PA609332,Ouest-France,left,left,neu,neu
+4756344::PA722142,Ouest-France,left,left,neu,neu
+2661514::PA267285,Ouest-France,right,right_or_far_right,neg,neg
+2539017::PA774954,Ouest-France,right,right_or_far_right,pos,pos
+2730095::PA266797,Ouest-France,right,right_or_far_right,neu,neu
+2733867::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+2875811::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2835814::PA267285,Ouest-France,right,right_or_far_right,neu,neu
+2744028::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2787137::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2864139::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2743891::PA720614,Ouest-France,far_right,right_or_far_right,pos,pos
+2874898::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2835814::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2877908::PA266797,Ouest-France,right,right_or_far_right,neg,neg
+2914428::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+2912998::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+2944368::PA330240,Ouest-France,right,right_or_far_right,neg,neg
+2919487::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+2891258::PA267285,Ouest-France,right,right_or_far_right,neu,neu
+2992872::PA720614,Ouest-France,far_right,right_or_far_right,neu,neg
+2996113::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+3006007::PA266797,Ouest-France,right,right_or_far_right,neu,neu
+2993292::PA720614,Ouest-France,far_right,right_or_far_right,neg,neg
+2948863::PA793218,Ouest-France,far_right,right_or_far_right,neu,neu
+3018987::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+4867165::PA722142,Challenges,left,left,neu,neu
+4866486::PA721202,Challenges,left,left,pos,pos
+4653050::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+4867086::PA1654,Challenges,left,left,neg,neu
+4868476::PA721202,Challenges,left,left,neu,neu
+4868996::PA1654,Challenges,left,left,pos,pos
+4710308::PA842097,Ouest-France,far_right,right_or_far_right,neu,neu
+4715009::PA841207,Ouest-France,right,right_or_far_right,neg,neg
+4869373::PA1654,Challenges,left,left,neu,neu
+4869364::PA721202,Challenges,left,left,neu,neu
+4870249::PA609332,Challenges,left,left,neg,neg
+4869008::PA2940,Challenges,left,left,neg,neg
+4868817::PA609332,Challenges,left,left,pos,pos
+4868534::PA333285,Challenges,left,left,neu,neu
+4870769::PA609332,Challenges,left,left,neu,neu
+4871236::PA609332,Challenges,left,left,pos,pos
+4870792::PA719930,Challenges,left,left,neu,neu
+4870565::PA721210,Challenges,left,left,neu,neg
+4867146::PA722142,Challenges,left,left,neu,neu
+4872775::PA795076,Challenges,left,left,neu,neu
+4871335::PA1654,Challenges,left,left,pos,pos
+4871919::PA722142,Challenges,left,left,pos,pos
+4872794::PA609332,Challenges,left,left,neg,neg
+4871318::PA609332,Challenges,left,left,pos,pos
+4873667::PA841657,Challenges,left,left,neu,neu
+4873912::PA609332,Challenges,left,left,neu,neu
+4873808::PA842029,Challenges,left,left,pos,pos
+4873928::PA1567,Challenges,left,left,neu,neu
+4874156::PA721202,Challenges,left,left,neu,neu
+4875190::PA609332,Challenges,left,left,neu,neu
+4876498::PA793464,Challenges,left,left,neg,neg
+4875194::PA609332,Challenges,left,left,neu,neu
+4874608::PA791812,Challenges,left,left,neg,neg
+4874562::PA609332,Challenges,left,left,neu,neu
+4876248::PA720892,Challenges,left,left,neu,neu
+4876026::PA609332,Challenges,left,left,neu,neu
+4880026::PA1654,Challenges,left,left,neu,neu
+4879166::PA609332,Challenges,left,left,neg,neg
+4878928::PA1654,Challenges,left,left,neu,neu
+4878478::PA1654,Challenges,left,left,neg,neg
+4879894::PA722142,Challenges,left,left,neu,neu
+4789646::PA720468,Challenges,far_right,right_or_far_right,neu,neu
+4867384::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4879166::PA1654,Challenges,left,left,neg,neu
+4867394::PA720614,Challenges,far_right,right_or_far_right,pos,pos
+4868682::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4868238::PA720614,Challenges,far_right,right_or_far_right,neg,neu
+4867954::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4870344::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4868613::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4870263::PA267285,Challenges,right,right_or_far_right,neu,neg
+4868732::PA267285,Challenges,right,right_or_far_right,pos,pos
+4870448::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4870397::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4870941::PA267285,Challenges,right,right_or_far_right,neg,neg
+4870374::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4870542::PA267285,Challenges,right,right_or_far_right,pos,neg
+4870516::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4872970::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4872509::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4871468::PA720614,Challenges,far_right,right_or_far_right,neg,neu
+4873322::PA330240,Challenges,right,right_or_far_right,neu,neu
+4874513::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4876026::PA794118,Challenges,right,right_or_far_right,neu,neu
+4873921::PA642847,Challenges,right,right_or_far_right,pos,pos
+4876264::PA795912,Challenges,far_right,right_or_far_right,neu,pos
+4876112::PA330240,Challenges,right,right_or_far_right,neu,neu
+4876615::PA330240,Challenges,right,right_or_far_right,neu,neu
+4871195::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4871618::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4877004::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4877340::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4876992::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4878678::PA795912,Challenges,far_right,right_or_far_right,pos,neg
+4879427::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4878218::PA720614,Challenges,far_right,right_or_far_right,neg,neg
+4879766::PA841207,Challenges,right,right_or_far_right,neu,neu
+4878882::PA793432,Challenges,far_right,right_or_far_right,neu,neu
+4879651::PA720614,Challenges,far_right,right_or_far_right,neu,neu
+4878661::PA330240,Challenges,right,right_or_far_right,neu,neu
+4879434::PA330240,Challenges,right,right_or_far_right,neu,neu
+1677424::PA1654,BFMTV,left,left,neu,neu
+1669643::PA793444,BFMTV,left,left,neu,neu
+1694418::PA793444,BFMTV,left,left,neu,neu
+1657349::PA609332,BFMTV,left,left,neu,neu
+1667888::PA794130,BFMTV,left,left,neg,neu
+1674227::PA721202,BFMTV,left,left,neu,neu
+1660883::PA795318,BFMTV,left,left,neu,neu
+1695382::PA794130,BFMTV,left,left,neg,neg
+1706593::PA1567,BFMTV,left,left,neu,neu
+1735820::PA609332,BFMTV,left,left,neu,neu
+1721231::PA722142,BFMTV,left,left,neu,neu
+1698644::PA722142,BFMTV,left,left,neu,neu
+1748507::PA719578,BFMTV,left,left,neu,neu
+1699626::PA719930,BFMTV,left,left,neu,neu
+1700153::PA609332,BFMTV,left,left,neu,neu
+1784438::PA719930,BFMTV,left,left,neu,neu
+1755963::PA722142,BFMTV,left,left,neu,neu
+1750208::PA826635,BFMTV,left,left,neu,neu
+1784706::PA609332,BFMTV,left,left,neu,neu
+1784693::PA720892,BFMTV,left,left,neu,neu
+1788588::PA609332,BFMTV,left,left,neu,neu
+1788790::PA609332,BFMTV,left,left,neu,neu
+2597943::PA721202,BFMTV,left,left,neg,neg
+2584914::PA795076,BFMTV,left,left,neg,neg
+2584651::PA793444,BFMTV,left,left,neu,neu
+1790733::PA793464,BFMTV,left,left,neg,neg
+2584286::PA721202,BFMTV,left,left,pos,pos
+4568831::PA793444,BFMTV,left,left,neu,neu
+4568584::PA722142,BFMTV,left,left,neu,neu
+2625226::PA609332,BFMTV,left,left,neu,neu
+2617788::PA720892,BFMTV,left,left,neg,neg
+4625932::PA721202,BFMTV,left,left,neu,neu
+4585405::PA1654,BFMTV,left,left,neu,neu
+4629494::PA1654,BFMTV,left,left,neg,neg
+1665822::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+2624830::PA609332,BFMTV,left,left,neu,neu
+1678916::PA330240,BFMTV,right,right_or_far_right,neu,neu
+4578712::PA720430,BFMTV,left,left,neg,neg
+2611066::PA722142,BFMTV,left,left,pos,pos
+4576812::PA793756,BFMTV,left,left,neu,neu
+1694486::PA267285,BFMTV,right,right_or_far_right,neu,neu
+1697532::PA720614,BFMTV,far_right,right_or_far_right,neg,neg
+1697618::PA267285,BFMTV,right,right_or_far_right,neu,neu
+1686798::PA267285,BFMTV,right,right_or_far_right,neg,neg
+1686832::PA720614,BFMTV,far_right,right_or_far_right,neg,neg
+1702066::PA793102,BFMTV,far_right,right_or_far_right,neu,neu
+1703750::PA720614,BFMTV,far_right,right_or_far_right,pos,neu
+1737856::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+1743683::PA267285,BFMTV,right,right_or_far_right,neu,neu
+1753801::PA267285,BFMTV,right,right_or_far_right,neu,neu
+1704919::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+1746392::PA330240,BFMTV,right,right_or_far_right,neu,neu
+1719730::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+1759460::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+1759436::PA720614,BFMTV,far_right,right_or_far_right,neu,neg
+1758632::PA795778,BFMTV,far_right,right_or_far_right,neu,neu
+1757715::PA346782,BFMTV,right,right_or_far_right,neg,neg
+1764079::PA720614,BFMTV,far_right,right_or_far_right,neg,neg
+1764115::PA720614,BFMTV,far_right,right_or_far_right,neg,neg
+1765149::PA720614,BFMTV,far_right,right_or_far_right,neg,neg
+1764914::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+1764773::PA330240,BFMTV,right,right_or_far_right,neg,neg
+1790477::PA793432,BFMTV,far_right,right_or_far_right,neu,neu
+2607382::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+2615180::PA794598,BFMTV,far_right,right_or_far_right,neu,neu
+1791735::PA267285,BFMTV,right,right_or_far_right,neg,neu
+1783858::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+2617421::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+2625468::PA794038,BFMTV,right,right_or_far_right,neu,neu
+3491075::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+4895532::PA330240,BFMTV,right,right_or_far_right,neu,neu
+1790733::PA793432,BFMTV,far_right,right_or_far_right,neg,neg
+4568554::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+2607873::PA642725,BFMTV,right,right_or_far_right,neu,neu
+2606431::PA330240,BFMTV,right,right_or_far_right,neu,neu
+1346031::PA609332,Le Parisien,left,left,neu,neu
+1348889::PA1567,Le Parisien,left,left,neu,neu
+1354104::PA609332,Le Parisien,left,left,neu,neg
+136644::PA794130,Le Parisien,left,left,neg,neg
+1393392::PA609332,Le Parisien,left,left,neu,neu
+1410450::PA795596,Le Parisien,left,left,neu,neu
+1426531::PA722142,Le Parisien,left,left,neu,neu
+1438537::PA793708,Le Parisien,left,left,neu,neu
+1453350::PA795318,Le Parisien,left,left,neg,neg
+1451954::PA1567,Le Parisien,left,left,pos,pos
+1403339::PA795076,Le Parisien,left,left,neu,neu
+1454785::PA793980,Le Parisien,left,left,neu,neu
+1507431::PA1654,Le Parisien,left,left,neu,neu
+1509555::PA842155,Le Parisien,left,left,neu,neu
+1481484::PA721202,Le Parisien,left,left,neu,neu
+4623387::PA267285,BFMTV,right,right_or_far_right,neu,neu
+1505830::PA609332,Le Parisien,left,left,neu,neu
+1519944::PA722142,Le Parisien,left,left,neu,neu
+1520865::PA722142,Le Parisien,left,left,neu,neu
+1624109::PA609332,Le Parisien,left,left,neu,neu
+1508663::PA609332,Le Parisien,left,left,neu,neu
+1607308::PA793444,Le Parisien,left,left,neu,neu
+1469417::PA720892,Le Parisien,left,left,neu,neu
+215093::PA793624,Le Parisien,left,left,pos,pos
+1831014::PA793444,Le Parisien,left,left,neu,neu
+1839069::PA1654,Le Parisien,left,left,neu,neu
+2101723::PA795318,Le Parisien,left,left,neg,neg
+1909012::PA842155,Le Parisien,left,left,neg,neu
+4537963::PA1654,Le Parisien,left,left,neu,neu
+182521::PA609332,Le Parisien,left,left,neu,neg
+4607174::PA609332,Le Parisien,left,left,neu,neu
+4537934::PA791812,Le Parisien,left,left,neu,neu
+4595514::PA609332,Le Parisien,left,left,neg,neg
+4652854::PA1654,Le Parisien,left,left,neg,neg
+4627035::PA720892,Le Parisien,left,left,neu,neu
+1341109::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+86483::PA610968,Le Parisien,left,left,pos,pos
+1422167::PA720614,Le Parisien,far_right,right_or_far_right,neg,neg
+4598622::PA609332,Le Parisien,left,left,neg,neg
+1426967::PA720614,Le Parisien,far_right,right_or_far_right,neg,neg
+1426664::PA720614,Le Parisien,far_right,right_or_far_right,neg,neg
+142875::PA795778,Le Parisien,far_right,right_or_far_right,neu,neu
+1351869::PA267285,Le Parisien,right,right_or_far_right,neg,neg
+1430413::PA720614,Le Parisien,far_right,right_or_far_right,neg,neu
+1432653::PA330240,Le Parisien,right,right_or_far_right,pos,pos
+1452625::PA267285,Le Parisien,right,right_or_far_right,neu,neu
+1401359::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+1471159::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+1430353::PA720614,Le Parisien,far_right,right_or_far_right,neg,neg
+1465711::PA267285,Le Parisien,right,right_or_far_right,neu,neu
+1509549::PA267285,Le Parisien,right,right_or_far_right,neg,neg
+1471430::PA720614,Le Parisien,far_right,right_or_far_right,neg,neg
+1481359::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+142723::PA267285,Le Parisien,right,right_or_far_right,neu,neu
+174659::PA794038,Le Parisien,right,right_or_far_right,pos,neg
+1814664::PA720614,Le Parisien,far_right,right_or_far_right,neu,neg
+1482541::PA267285,Le Parisien,right,right_or_far_right,neg,neg
+1806113::PA841207,Le Parisien,right,right_or_far_right,neu,neu
+1816727::PA720614,Le Parisien,far_right,right_or_far_right,neu,pos
+1818115::PA330240,Le Parisien,right,right_or_far_right,neu,neu
+1686523::PA720614,BFMTV,far_right,right_or_far_right,neg,neg
+4878085::PA720892,Challenges,left,left,neu,neu
+4588063::PA720614,BFMTV,far_right,right_or_far_right,neu,neu
+1410970::PA795596,Le Parisien,left,left,pos,neu
+1789105::PA794008,BFMTV,left,left,pos,pos
+1693601::PA609332,BFMTV,left,left,neu,neu
+2731303::PA720614,Ouest-France,far_right,right_or_far_right,neu,neu
+895016::PA722142,20 Minutes,left,left,neg,neu
+1829092::PA330240,Le Parisien,right,right_or_far_right,neu,neu
+1821813::PA330240,Le Parisien,right,right_or_far_right,neg,neg
+1835237::PA720614,Le Parisien,far_right,right_or_far_right,neg,neu
+1835471::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+136675::PA267285,Le Parisien,right,right_or_far_right,neu,neu
+1829746::PA330240,Le Parisien,right,right_or_far_right,pos,neu
+1818939::PA720614,Le Parisien,far_right,right_or_far_right,neg,neu
+1887441::PA720614,Le Parisien,far_right,right_or_far_right,neu,neg
+1855561::PA267285,Le Parisien,right,right_or_far_right,neu,neu
+432933::PA267285,Le Parisien,right,right_or_far_right,neg,neg
+4707480::PA267285,Le Parisien,right,right_or_far_right,neg,neg
+1855893::PA720614,Le Parisien,far_right,right_or_far_right,neg,neg
+4613188::PA330240,Le Parisien,right,right_or_far_right,neu,pos
+141874::PA722142,La Croix,left,left,pos,pos
+1536690::PA609332,La Croix,left,left,neu,neu
+4724863::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+168066::PA793444,La Croix,left,left,neu,pos
+143107::PA588884,La Croix,left,left,neu,neu
+1623558::PA793444,La Croix,left,left,neu,neu
+1621113::PA335999,La Croix,left,left,neu,neu
+1803916::PA721202,La Croix,left,left,neu,neu
+1631097::PA609332,La Croix,left,left,neu,neu
+1801410::PA719930,La Croix,left,left,neu,neu
+181380::PA609332,La Croix,left,left,pos,pos
+200678::PA722142,La Croix,left,left,neg,neu
+1844103::PA842105,La Croix,left,left,neu,neu
+202455::PA720892,La Croix,left,left,neu,neu
+180568::PA1654,La Croix,left,left,neg,neg
+181549::PA842263,La Croix,left,left,neu,neu
+228463::PA721202,La Croix,left,left,neu,neu
+232361::PA721202,La Croix,left,left,neu,neu
+240538::PA722142,La Croix,left,left,neu,neu
+245495::PA722142,La Croix,left,left,neu,neu
+314943::PA333285,La Croix,left,left,neu,neu
+181316::PA609332,La Croix,left,left,neg,neg
+231703::PA1654,La Croix,left,left,neu,neu
+235464::PA609332,La Croix,left,left,neu,neu
+468387::PA609332,La Croix,left,left,neu,neu
+468710::PA609332,La Croix,left,left,neg,neg
+470866::PA721202,La Croix,left,left,neu,neg
+471780::PA609332,La Croix,left,left,neu,neu
+324288::PA719930,La Croix,left,left,pos,neu
+325615::PA607553,La Croix,left,left,neu,neu
+472626::PA720892,La Croix,left,left,neu,neu
+203574::PA722142,La Croix,left,left,neu,neg
+4776234::PA793464,La Croix,left,left,neg,neg
+132521::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+132314::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+325411::PA1654,La Croix,left,left,neu,neu
+472529::PA609332,La Croix,left,left,neu,pos
+473619::PA793444,La Croix,left,left,neu,neu
+134091::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+133531::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+132923::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+141828::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+134528::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+133502::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+1606483::PA795778,La Croix,far_right,right_or_far_right,neu,neu
+584889::PA793444,La Croix,left,left,neu,neu
+1796880::PA720614,La Croix,far_right,right_or_far_right,pos,pos
+179049::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+1794767::PA795912,La Croix,far_right,right_or_far_right,neu,neu
+181199::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+200833::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+227612::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+240442::PA330008,La Croix,right,right_or_far_right,neg,neg
+317605::PA267285,La Croix,right,right_or_far_right,neu,neu
+4558726::PA330240,La Croix,right,right_or_far_right,pos,pos
+4475289::PA330240,La Croix,right,right_or_far_right,pos,pos
+4564191::PA794946,La Croix,far_right,right_or_far_right,neg,neg
+471233::PA720614,La Croix,far_right,right_or_far_right,neg,neu
+4567456::PA841207,La Croix,right,right_or_far_right,pos,neu
+473029::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+579724::PA267285,La Croix,right,right_or_far_right,neu,neu
+472759::PA267285,La Croix,right,right_or_far_right,neg,neg
+580798::PA330240,La Croix,right,right_or_far_right,neu,neu
+4567912::PA841207,La Croix,right,right_or_far_right,neu,pos
+583035::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+1528914::PA609332,L'Express,left,left,neg,neg
+100222::PA1654,L'Express,left,left,neu,neg
+894437::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+166678::PA588884,L'Express,left,left,neu,neu
+1538791::PA609332,L'Express,left,left,neg,neg
+166549::PA719930,L'Express,left,left,neu,neu
+1798386::PA722142,L'Express,left,left,neg,neg
+1799047::PA1654,L'Express,left,left,neu,neg
+176616::PA609332,L'Express,left,left,neg,neg
+1601891::PA609332,L'Express,left,left,neu,neu
+184016::PA1654,L'Express,left,left,neu,pos
+201716::PA720892,L'Express,left,left,neu,neu
+1799166::PA842105,L'Express,left,left,neu,neg
+191659::PA2940,L'Express,left,left,neg,neg
+2581326::PA609332,L'Express,left,left,neu,neu
+251623::PA795318,L'Express,left,left,neg,neg
+2886473::PA791812,L'Express,left,left,neu,neu
+182724::PA793444,L'Express,left,left,neu,neu
+2882021::PA1654,L'Express,left,left,neu,neu
+2894905::PA795588,L'Express,left,left,pos,pos
+4477335::PA609332,L'Express,left,left,neu,neu
+202627::PA1654,L'Express,left,left,neu,neu
+4585921::PA1654,L'Express,left,left,neu,neu
+4588434::PA1654,L'Express,left,left,neg,neg
+4588814::PA1654,L'Express,left,left,pos,pos
+4584084::PA719930,L'Express,left,left,neu,neg
+4477335::PA719930,L'Express,left,left,neu,neu
+525886::PA1654,L'Express,left,left,neg,neu
+4583325::PA609332,L'Express,left,left,neg,neg
+78313::PA719930,L'Express,left,left,neu,neu
+80577::PA1654,L'Express,left,left,neu,neu
+97889::PA721896,L'Express,left,left,neu,neu
+93071::PA1654,L'Express,left,left,neg,neg
+77860::PA609332,L'Express,left,left,neu,neu
+116809::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+526160::PA1654,L'Express,left,left,neu,neu
+117895::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+117785::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+98144::PA721202,L'Express,left,left,neg,neg
+118217::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+118341::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+117580::PA330240,L'Express,right,right_or_far_right,neg,neg
+118008::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+118266::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+167040::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+1632928::PA720614,L'Express,far_right,right_or_far_right,neg,neu
+118356::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+118253::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+169401::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+1797604::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+174986::PA330240,L'Express,right,right_or_far_right,neu,neu
+118368::PA720614,L'Express,far_right,right_or_far_right,pos,neu
+169958::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+2594402::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+180216::PA720468,L'Express,far_right,right_or_far_right,pos,pos
+169528::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+252520::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+2897417::PA721932,L'Express,far_right,right_or_far_right,neg,neg
+4586830::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+177642::PA267285,L'Express,right,right_or_far_right,neu,neu
+2883676::PA720614,L'Express,far_right,right_or_far_right,neg,pos
+4589808::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+204503::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+209409::PA267285,L'Express,right,right_or_far_right,neu,neu
+525009::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+81536::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+1933271::PA793464,TF1 INFO,left,left,neg,neg
+96596::PA720614,L'Express,far_right,right_or_far_right,pos,pos
+1949679::PA721202,TF1 INFO,left,left,neu,neu
+4587331::PA330240,L'Express,right,right_or_far_right,neg,neg
+96877::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+1992012::PA721210,TF1 INFO,left,left,neu,neu
+98674::PA267285,L'Express,right,right_or_far_right,neu,neu
+1982123::PA842105,TF1 INFO,left,left,neg,neg
+2786911::PA1654,TF1 INFO,left,left,neu,neu
+525969::PA720614,L'Express,far_right,right_or_far_right,neu,neu
+1978732::PA720892,TF1 INFO,left,left,neg,neg
+2805454::PA795318,TF1 INFO,left,left,neu,neg
+2834907::PA609332,TF1 INFO,left,left,neu,neu
+2821204::PA793708,TF1 INFO,left,left,pos,neu
+2793070::PA721210,TF1 INFO,left,left,neu,neu
+2837236::PA793444,TF1 INFO,left,left,neg,neg
+1980613::PA793444,TF1 INFO,left,left,neu,neu
+2835067::PA719930,TF1 INFO,left,left,neg,neg
+2883553::PA609332,TF1 INFO,left,left,neu,neu
+2889302::PA722142,TF1 INFO,left,left,neu,neu
+2913087::PA609332,TF1 INFO,left,left,neu,neu
+2913207::PA609332,TF1 INFO,left,left,neu,neu
+2949891::PA793262,TF1 INFO,left,left,neu,neu
+2840773::PA610968,TF1 INFO,left,left,pos,pos
+2796324::PA720430,TF1 INFO,left,left,neu,neu
+2796949::PA795310,TF1 INFO,left,left,neu,neu
+4505724::PA795076,TF1 INFO,left,left,neu,neu
+3491920::PA842105,TF1 INFO,left,left,pos,pos
+3492108::PA793464,TF1 INFO,left,left,neu,neu
+4509041::PA720892,TF1 INFO,left,left,neu,neu
+4506519::PA793756,TF1 INFO,left,left,neg,neu
+4510103::PA720892,TF1 INFO,left,left,neu,neu
+4511195::PA721202,TF1 INFO,left,left,neu,neu
+4565630::PA842105,TF1 INFO,left,left,neg,neg
+845034::PA588884,TF1 INFO,left,left,neu,neu
+4511367::PA720892,TF1 INFO,left,left,neu,neu
+1940229::PA795778,TF1 INFO,far_right,right_or_far_right,neu,neu
+1935914::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+1978667::PA794598,TF1 INFO,far_right,right_or_far_right,neu,neu
+1935781::PA794946,TF1 INFO,far_right,right_or_far_right,neu,neu
+1990767::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neg
+2794462::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2820015::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2820215::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2786909::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+2820535::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2820219::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2820001::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2820006::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2802068::PA267285,TF1 INFO,right,right_or_far_right,neu,neu
+2837990::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+2820218::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2840218::PA267285,TF1 INFO,right,right_or_far_right,pos,pos
+2891256::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neg
+2846091::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+2820276::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2839103::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+2953932::PA720614,TF1 INFO,far_right,right_or_far_right,pos,pos
+4499686::PA720468,TF1 INFO,far_right,right_or_far_right,neu,neu
+2825243::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+4508322::PA267285,TF1 INFO,right,right_or_far_right,neu,neu
+2956673::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+4506448::PA368,TF1 INFO,right,right_or_far_right,neu,neu
+2890391::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+4508633::PA720468,TF1 INFO,far_right,right_or_far_right,neu,neu
+4508647::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+1531306::PA721202,La Croix,left,left,neu,neu
+1901240::PA842029,Le Parisien,left,left,pos,neu
+1856574::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+476085::PA333285,La Croix,left,left,neu,neu
+1881399::PA609332,Le Parisien,left,left,neu,neu
+1794547::PA791812,La Croix,left,left,neg,neg
+4598622::PA719930,Le Parisien,left,left,neu,neu
+1464650::PA720614,Le Parisien,far_right,right_or_far_right,neu,neu
+133534::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+133075::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+186888::PA607553,La Croix,left,left,neu,neu
+1802398::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+207841::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+584418::PA267285,La Croix,right,right_or_far_right,neg,neg
+2137804::PA330240,Le Parisien,right,right_or_far_right,neu,neu
+4867982::PA720614,Challenges,far_right,right_or_far_right,neg,neu
+198566::PA267285,La Croix,right,right_or_far_right,neu,neu
+172406::PA722142,L'Express,left,left,pos,pos
+232843::PA794994,La Croix,right,right_or_far_right,neu,neu
+1583719::PA1654,L'Express,left,left,neu,neu
+585604::PA794038,La Croix,right,right_or_far_right,neu,neu
+199024::PA720614,La Croix,far_right,right_or_far_right,neg,neg
+251378::PA267285,L'Express,right,right_or_far_right,neg,neg
+2894216::PA609332,L'Express,left,left,neu,neu
+325182::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+4477377::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+4476228::PA330240,L'Express,right,right_or_far_right,pos,neg
+117330::PA720614,L'Express,far_right,right_or_far_right,neg,neg
+1965998::PA588884,TF1 INFO,left,left,neu,neu
+2944766::PA1654,TF1 INFO,left,left,neu,neu
+76944::PA330240,L'Express,right,right_or_far_right,neu,neu
+4490604::PA793464,TF1 INFO,left,left,neg,neg
+4493332::PA721202,TF1 INFO,left,left,neu,neu
+4572400::PA721202,TF1 INFO,left,left,neu,neu
+4507489::PA1654,TF1 INFO,left,left,neu,neu
+2891263::PA609332,TF1 INFO,left,left,neu,neu
+525032::PA721202,L'Express,left,left,neu,neu
+4505253::PA330240,TF1 INFO,right,right_or_far_right,pos,pos
+4505727::PA793756,TF1 INFO,left,left,neu,neu
+4511511::PA609332,TF1 INFO,left,left,neu,neu
+4511056::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+4513169::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+2838821::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+4922277::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+4508001::PA267285,TF1 INFO,right,right_or_far_right,neu,neu
+861751::PA794598,TF1 INFO,far_right,right_or_far_right,neu,neu
+2106420::PA609332,Les Echos,left,left,neu,neu
+1777240::PA719930,Les Echos,left,left,neu,neu
+1777366::PA1654,Les Echos,left,left,pos,pos
+2106548::PA609332,Les Echos,left,left,neu,neu
+2164107::PA609332,Les Echos,left,left,neu,neu
+2158816::PA795318,Les Echos,left,left,neg,neg
+2231593::PA609332,Les Echos,left,left,pos,pos
+2900629::PA720614,TF1 INFO,far_right,right_or_far_right,neu,neu
+2230138::PA719930,Les Echos,left,left,neu,neu
+2230138::PA609332,Les Echos,left,left,neu,neu
+2395531::PA609332,Les Echos,left,left,pos,pos
+2395473::PA609332,Les Echos,left,left,neu,neu
+2122170::PA1567,Les Echos,left,left,neu,neu
+2395531::PA719930,Les Echos,left,left,neu,neu
+2492615::PA609332,Les Echos,left,left,neu,neu
+2471400::PA1654,Les Echos,left,left,neu,neu
+2315490::PA609332,Les Echos,left,left,neu,neu
+3107109::PA721202,Les Echos,left,left,neu,neu
+2396009::PA609332,Les Echos,left,left,pos,pos
+2681844::PA793444,Les Echos,left,left,pos,pos
+2495717::PA609332,Les Echos,left,left,neu,neu
+2668811::PA609332,Les Echos,left,left,neu,neu
+2502144::PA609332,Les Echos,left,left,neg,neg
+3119385::PA609332,Les Echos,left,left,neu,neu
+3130033::PA841419,Les Echos,left,left,neu,neu
+2623554::PA1654,Les Echos,left,left,neu,neu
+3131690::PA1654,Les Echos,left,left,neg,neg
+3107255::PA721202,Les Echos,left,left,neu,neu
+3119230::PA721202,Les Echos,left,left,pos,pos
+4727651::PA609332,Les Echos,left,left,neg,neg
+4706186::PA609332,Les Echos,left,left,neu,neu
+3130433::PA609332,Les Echos,left,left,neu,neg
+4783983::PA719930,Les Echos,left,left,neu,neg
+4783155::PA609332,Les Echos,left,left,neg,neg
+4391419::PA791812,Les Echos,left,left,neu,neu
+4783139::PA719930,Les Echos,left,left,neu,neu
+1777196::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+2159987::PA842141,Les Echos,right,right_or_far_right,pos,pos
+4784004::PA719930,Les Echos,left,left,neu,neu
+2164570::PA267285,Les Echos,right,right_or_far_right,neu,neu
+2231323::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+2316031::PA267285,Les Echos,right,right_or_far_right,neg,neg
+2230650::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+2231582::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+2395670::PA330240,Les Echos,right,right_or_far_right,neg,neg
+2315700::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+2471387::PA368,Les Echos,right,right_or_far_right,pos,neu
+2316255::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+2315729::PA720614,Les Echos,far_right,right_or_far_right,pos,neu
+2489983::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+3115937::PA330240,Les Echos,right,right_or_far_right,neu,neu
+2471373::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+2502357::PA720614,Les Echos,far_right,right_or_far_right,pos,pos
+2494538::PA368,Les Echos,right,right_or_far_right,neu,neu
+2646664::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+3119658::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+2672831::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+3127275::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+3130565::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+3131797::PA720614,Les Echos,far_right,right_or_far_right,pos,pos
+3130974::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+3116808::PA267285,Les Echos,right,right_or_far_right,neu,neu
+3503476::PA793432,Les Echos,far_right,right_or_far_right,neg,neg
+3131695::PA720614,Les Echos,far_right,right_or_far_right,neu,neg
+3130191::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+4782903::PA368,Les Echos,right,right_or_far_right,pos,pos
+3131818::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+1362119::PA609332,Le Point,left,left,pos,pos
+1384356::PA609332,Le Point,left,left,neg,neg
+3131846::PA267285,Les Echos,right,right_or_far_right,neu,neu
+1364902::PA609332,Le Point,left,left,neg,neu
+1408653::PA795076,Le Point,left,left,neg,neg
+1443837::PA722142,Le Point,left,left,neu,neu
+1400426::PA721960,Le Point,left,left,neu,neu
+1813312::PA795076,Le Point,left,left,neg,neu
+1815009::PA796090,Le Point,left,left,neu,neu
+224195::PA794130,Le Point,left,left,neu,neu
+3531899::PA841327,Le Point,left,left,neg,neg
+1444134::PA609332,Le Point,left,left,neu,neu
+466612::PA722142,Le Point,left,left,pos,pos
+1443023::PA796062,Le Point,left,left,neg,neu
+3932939::PA795596,Le Point,left,left,neu,neg
+4727715::PA1654,Le Point,left,left,neu,neu
+226149::PA793444,Le Point,left,left,neu,neg
+538315::PA1654,Le Point,left,left,neg,neg
+4704453::PA719930,Le Point,left,left,neg,neg
+4659505::PA1654,Le Point,left,left,neu,neu
+535536::PA722142,Le Point,left,left,neu,neu
+534261::PA609332,Le Point,left,left,neg,neg
+537513::PA795318,Le Point,left,left,neu,neu
+539121::PA841381,Le Point,left,left,neg,neu
+546375::PA793464,Le Point,left,left,neg,neg
+548492::PA795076,Le Point,left,left,neg,neg
+550370::PA1654,Le Point,left,left,neu,neu
+539698::PA607553,Le Point,left,left,neu,neu
+552132::PA721202,Le Point,left,left,neg,neg
+543961::PA1654,Le Point,left,left,pos,pos
+1362887::PA330240,Le Point,right,right_or_far_right,neg,neg
+559931::PA791812,Le Point,left,left,neg,neg
+1368717::PA267285,Le Point,right,right_or_far_right,neu,neu
+556090::PA1654,Le Point,left,left,neg,neg
+73601::PA793464,Le Point,left,left,neg,neg
+1384121::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1384219::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1382833::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1384164::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+552113::PA795466,Le Point,left,left,neu,neu
+1403866::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+1407610::PA720614,Le Point,far_right,right_or_far_right,pos,pos
+1407658::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1408593::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1394293::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1418037::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+1433942::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+127356::PA720614,Le Point,far_right,right_or_far_right,pos,neu
+1806459::PA841207,Le Point,right,right_or_far_right,neu,neu
+1428738::PA330240,Le Point,right,right_or_far_right,neu,neu
+224384::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1384887::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+1436659::PA267285,Le Point,right,right_or_far_right,neu,neu
+3932067::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+3932731::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+1444020::PA330240,Le Point,right,right_or_far_right,neg,neu
+1812075::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+3931608::PA720614,Le Point,far_right,right_or_far_right,pos,pos
+3934126::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+540752::PA720614,Le Point,far_right,right_or_far_right,pos,pos
+3933278::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+531732::PA720614,Le Point,far_right,right_or_far_right,neg,neu
+538531::PA267285,Le Point,right,right_or_far_right,neu,neu
+546237::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+546664::PA267285,Le Point,right,right_or_far_right,pos,pos
+1815779::PA720614,Le Point,far_right,right_or_far_right,neu,neg
+546702::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+547635::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+534813::PA330240,Le Point,right,right_or_far_right,pos,pos
+4548608::PA1654,L'Opinion,left,left,neu,neu
+535556::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+548525::PA720614,Le Point,far_right,right_or_far_right,neu,neu
+4548846::PA1654,L'Opinion,left,left,neu,neu
+4548665::PA1567,L'Opinion,left,left,neu,neu
+546680::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+4548675::PA722150,L'Opinion,left,left,neu,neu
+4548959::PA609332,L'Opinion,left,left,neg,neg
+4549004::PA609332,L'Opinion,left,left,neg,neg
+4548713::PA722142,L'Opinion,left,left,neu,neu
+4553621::PA609332,L'Opinion,left,left,neg,neg
+4549075::PA793444,L'Opinion,left,left,neg,neg
+4553641::PA794008,L'Opinion,left,left,neu,neu
+4553929::PA793624,L'Opinion,left,left,neu,neu
+4553897::PA609332,L'Opinion,left,left,pos,pos
+4549547::PA609332,L'Opinion,left,left,neg,neg
+4554275::PA609332,L'Opinion,left,left,neg,neg
+4553827::PA720362,L'Opinion,left,left,neu,neu
+4554618::PA722142,L'Opinion,left,left,neu,neu
+4554623::PA1654,L'Opinion,left,left,neg,neg
+4553899::PA609332,L'Opinion,left,left,pos,pos
+4554975::PA721210,L'Opinion,left,left,neu,neu
+4555028::PA609332,L'Opinion,left,left,pos,neu
+4555137::PA795876,L'Opinion,left,left,neu,neu
+4554720::PA609332,L'Opinion,left,left,neg,neg
+4554247::PA609332,L'Opinion,left,left,neu,neu
+4555249::PA722142,L'Opinion,left,left,neu,neu
+4555318::PA609332,L'Opinion,left,left,neg,neg
+4555311::PA1567,L'Opinion,left,left,neu,neg
+4554685::PA609332,L'Opinion,left,left,neu,neu
+4555484::PA1567,L'Opinion,left,left,neg,neu
+4555001::PA793624,L'Opinion,left,left,neu,neu
+4555311::PA793394,L'Opinion,left,left,neu,neu
+4555597::PA722150,L'Opinion,left,left,neg,neg
+4920822::PA609332,L'Opinion,left,left,neu,neu
+4548826::PA330240,L'Opinion,right,right_or_far_right,neu,neu
+5021366::PA609332,L'Opinion,left,left,neg,neg
+4554826::PA1654,L'Opinion,left,left,neu,neu
+4549326::PA720614,L'Opinion,far_right,right_or_far_right,pos,pos
+4549451::PA267285,L'Opinion,right,right_or_far_right,neu,pos
+4548347::PA720614,L'Opinion,far_right,right_or_far_right,pos,pos
+4549503::PA720614,L'Opinion,far_right,right_or_far_right,neu,neu
+4549502::PA267285,L'Opinion,right,right_or_far_right,neu,neu
+4549102::PA720614,L'Opinion,far_right,right_or_far_right,neu,neu
+4549238::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4550037::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4549461::PA720614,L'Opinion,far_right,right_or_far_right,neu,neu
+4549533::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4896577::PA1654,L'Opinion,left,left,neg,neg
+4550770::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4550151::PA720614,L'Opinion,far_right,right_or_far_right,neu,neg
+1777162::PA1567,Les Echos,left,left,neu,neu
+4589443::PA719930,L'Express,left,left,neu,neu
+2820267::PA720614,TF1 INFO,far_right,right_or_far_right,neg,neg
+2267731::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+2502313::PA335999,Les Echos,left,left,neg,neu
+3130551::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+2315794::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+2669649::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+3119687::PA330240,Les Echos,right,right_or_far_right,neu,neg
+2106661::PA720614,Les Echos,far_right,right_or_far_right,neu,neu
+141581::PA791812,Le Point,left,left,neg,neg
+4706186::PA719930,Les Echos,left,left,neu,neu
+128547::PA588884,Le Point,left,left,neg,neg
+1430006::PA721202,Le Point,left,left,neu,neu
+1432185::PA722142,Le Point,left,left,neg,neg
+537116::PA795076,Le Point,left,left,neu,neu
+3130612::PA720614,Les Echos,far_right,right_or_far_right,neg,neg
+467123::PA795466,Le Point,left,left,neu,neu
+614550::PA267285,Le Point,right,right_or_far_right,neu,neu
+4548930::PA719930,L'Opinion,left,left,neg,neg
+3130850::PA1654,Les Echos,left,left,neu,neg
+543718::PA796062,Le Point,left,left,neg,neg
+4554355::PA794130,L'Opinion,left,left,neg,neg
+4548360::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4551252::PA346782,L'Opinion,right,right_or_far_right,neu,neu
+4553908::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4549229::PA720614,L'Opinion,far_right,right_or_far_right,neu,neu
+4548409::PA793262,L'Opinion,left,left,neu,neu
+4554423::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4554104::PA330240,L'Opinion,right,right_or_far_right,pos,pos
+4554480::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4554474::PA720614,L'Opinion,far_right,right_or_far_right,pos,neu
+4554489::PA720614,L'Opinion,far_right,right_or_far_right,neu,neu
+4554505::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4553715::PA609332,L'Opinion,left,left,pos,pos
+4554572::PA267285,L'Opinion,right,right_or_far_right,pos,pos
+4553783::PA609332,L'Opinion,left,left,neu,neu
+4554589::PA267285,L'Opinion,right,right_or_far_right,neu,neu
+4554601::PA720614,L'Opinion,far_right,right_or_far_right,neu,neu
+4554592::PA720614,L'Opinion,far_right,right_or_far_right,neu,neu
+4554510::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4555167::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+4555246::PA267285,L'Opinion,right,right_or_far_right,neu,neu
+4554456::PA267285,L'Opinion,right,right_or_far_right,neu,neg
+4555351::PA267285,L'Opinion,right,right_or_far_right,pos,pos
+4555544::PA267285,L'Opinion,right,right_or_far_right,neg,neg
+4554635::PA720614,L'Opinion,far_right,right_or_far_right,pos,pos
+4555567::PA267285,L'Opinion,right,right_or_far_right,neu,neu
+1599241::PA736201,JDD,left,left,neu,neu
+1535787::PA795466,JDD,left,left,neg,neg
+4554615::PA346782,L'Opinion,right,right_or_far_right,neu,neu
+4554377::PA720614,L'Opinion,far_right,right_or_far_right,pos,pos
+1605960::PA796062,JDD,left,left,neg,neg
+4555645::PA267285,L'Opinion,right,right_or_far_right,neu,neu
+1609822::PA842105,JDD,left,left,neg,neg
+4555362::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+1630639::PA793464,JDD,left,left,neu,neu
+1632744::PA795200,JDD,left,left,neu,neu
+4555567::PA720614,L'Opinion,far_right,right_or_far_right,neg,neg
+3239728::PA795466,JDD,left,left,neg,neg
+4681453::PA795076,JDD,left,left,neu,neu
+1940426::PA842105,JDD,left,left,neu,neu
+4686077::PA791812,JDD,left,left,neg,neg
+4682586::PA609332,JDD,left,left,neu,neu
+1639576::PA795466,JDD,left,left,neu,neg
+3241152::PA796090,JDD,left,left,neu,neu
+3507147::PA842105,JDD,left,left,neu,neu
+588757::PA795076,JDD,left,left,neg,neg
+1619219::PA720952,JDD,left,left,neg,neg
+588866::PA842187,JDD,left,left,neu,neu
+588409::PA609332,JDD,left,left,neg,neg
+588462::PA795228,JDD,left,left,neu,neu
+588456::PA796090,JDD,left,left,neu,neu
+588949::PA795076,JDD,left,left,neg,neg
+589535::PA795746,JDD,left,left,neg,neg
+589059::PA1654,JDD,left,left,neu,neu
+589108::PA796010,JDD,left,left,neg,neg
+589869::PA841327,JDD,left,left,neu,neg
+588774::PA793444,JDD,left,left,neg,neg
+594892::PA795466,JDD,left,left,neg,neu
+594745::PA722142,JDD,left,left,neg,neg
+595372::PA722142,JDD,left,left,neu,neu
+594059::PA795466,JDD,left,left,neg,neg
+595405::PA722142,JDD,left,left,neu,neu
+1531398::PA720614,JDD,far_right,right_or_far_right,neu,neu
+1627901::PA842001,JDD,far_right,right_or_far_right,neu,neu
+1941358::PA795912,JDD,far_right,right_or_far_right,neu,neu
+1529668::PA346782,JDD,right,right_or_far_right,neu,neu
+1943275::PA346782,JDD,right,right_or_far_right,neu,neu
+594969::PA796062,JDD,left,left,neu,neg
+595563::PA609332,JDD,left,left,neg,neg
+3241497::PA720614,JDD,far_right,right_or_far_right,neg,neg
+3218531::PA330240,JDD,right,right_or_far_right,neu,neu
+4685945::PA330240,JDD,right,right_or_far_right,neu,neu
+588594::PA720614,JDD,far_right,right_or_far_right,neu,neu
+588729::PA330240,JDD,right,right_or_far_right,neu,neu
+588380::PA720614,JDD,far_right,right_or_far_right,neu,neu
+3237074::PA267285,JDD,right,right_or_far_right,neu,neu
+588801::PA720614,JDD,far_right,right_or_far_right,neu,neu
+589273::PA330240,JDD,right,right_or_far_right,neu,neu
+588646::PA720614,JDD,far_right,right_or_far_right,neu,neu
+588820::PA267285,JDD,right,right_or_far_right,neg,neg
+589335::PA795552,JDD,far_right,right_or_far_right,neu,pos
+589757::PA720614,JDD,far_right,right_or_far_right,pos,pos
+588602::PA795552,JDD,far_right,right_or_far_right,neu,neu
+3243159::PA720468,JDD,far_right,right_or_far_right,neu,neu
+594050::PA795778,JDD,far_right,right_or_far_right,neu,neu
+589109::PA330240,JDD,right,right_or_far_right,neu,neu
+594241::PA720614,JDD,far_right,right_or_far_right,pos,neu
+589698::PA330240,JDD,right,right_or_far_right,neu,pos
+594606::PA720614,JDD,far_right,right_or_far_right,pos,pos
+594628::PA267285,JDD,right,right_or_far_right,neu,neu
+589782::PA720614,JDD,far_right,right_or_far_right,neg,neg
+594796::PA720614,JDD,far_right,right_or_far_right,neu,neu
+594304::PA794118,JDD,right,right_or_far_right,neu,neu
+588978::PA795778,JDD,far_right,right_or_far_right,neu,neu
+589314::PA720614,JDD,far_right,right_or_far_right,neu,neg
+595366::PA720614,JDD,far_right,right_or_far_right,neu,neg
+2345737::PA793624,CNEWS,left,left,pos,pos
+2344779::PA795466,CNEWS,left,left,neu,neu
+2349462::PA795318,CNEWS,left,left,neu,neg
+2349478::PA720430,CNEWS,left,left,neg,neg
+2349611::PA795310,CNEWS,left,left,neu,neu
+2346295::PA842105,CNEWS,left,left,neu,neu
+2349620::PA1654,CNEWS,left,left,neg,neg
+2350116::PA609332,CNEWS,left,left,neu,neu
+595691::PA267285,JDD,right,right_or_far_right,neu,neu
+2350415::PA609332,CNEWS,left,left,neu,neu
+2350975::PA721202,CNEWS,left,left,neu,neu
+2353045::PA795076,CNEWS,left,left,neu,neu
+2353254::PA609332,CNEWS,left,left,neg,neg
+1870440::PA794130,CNEWS,left,left,neu,neu
+2355254::PA795466,CNEWS,left,left,neg,neg
+2354471::PA609332,CNEWS,left,left,neg,neg
+2355269::PA720892,CNEWS,left,left,neu,neu
+2350188::PA609332,CNEWS,left,left,neg,neu
+2355331::PA1567,CNEWS,left,left,neu,neu
+2356335::PA795076,CNEWS,left,left,neu,neu
+2357969::PA721202,CNEWS,left,left,neu,neu
+2398656::PA842263,CNEWS,left,left,neu,neu
+2360308::PA796090,CNEWS,left,left,neg,neg
+2400029::PA719930,CNEWS,left,left,neu,neu
+2401261::PA720952,CNEWS,left,left,neg,neg
+2350511::PA1567,CNEWS,left,left,neu,neu
+2359277::PA794130,CNEWS,left,left,neg,neg
+2401810::PA609332,CNEWS,left,left,neu,neu
+2401472::PA1654,CNEWS,left,left,neu,neu
+2398914::PA793756,CNEWS,left,left,neu,neu
+2399261::PA793464,CNEWS,left,left,neg,neg
+2403292::PA721202,CNEWS,left,left,neu,neu
+2405426::PA842195,CNEWS,left,left,neu,neu
+4389731::PA794130,CNEWS,left,left,neu,neu
+2174113::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2196476::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2196765::PA793432,CNEWS,far_right,right_or_far_right,neu,neu
+2408526::PA722142,CNEWS,left,left,neu,neu
+2405768::PA793464,CNEWS,left,left,neu,neu
+2401962::PA609332,CNEWS,left,left,neg,neg
+2343791::PA330240,CNEWS,right,right_or_far_right,neu,neu
+2343895::PA795552,CNEWS,far_right,right_or_far_right,neu,neu
+2350722::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2404435::PA721202,CNEWS,left,left,neu,neu
+2350031::PA720614,CNEWS,far_right,right_or_far_right,pos,pos
+2346624::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2353217::PA267285,CNEWS,right,right_or_far_right,neu,neu
+2355139::PA795778,CNEWS,far_right,right_or_far_right,neu,neu
+2352769::PA720468,CNEWS,far_right,right_or_far_right,neu,neu
+2357677::PA720614,CNEWS,far_right,right_or_far_right,neg,neg
+2357815::PA267285,CNEWS,right,right_or_far_right,neu,neu
+2359514::PA795778,CNEWS,far_right,right_or_far_right,neu,neu
+2357813::PA267285,CNEWS,right,right_or_far_right,neu,neu
+2357436::PA720614,CNEWS,far_right,right_or_far_right,neg,neg
+2356570::PA267285,CNEWS,right,right_or_far_right,neu,neu
+2399572::PA795552,CNEWS,far_right,right_or_far_right,neu,neu
+2402569::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2357695::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2403408::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2403928::PA795778,CNEWS,far_right,right_or_far_right,neu,neu
+2398655::PA793432,CNEWS,far_right,right_or_far_right,neu,neu
+2405771::PA267285,CNEWS,right,right_or_far_right,neu,neu
+2400843::PA720614,CNEWS,far_right,right_or_far_right,neg,neg
+2406913::PA840889,CNEWS,right,right_or_far_right,neu,neu
+5047410::PA330240,CNEWS,right,right_or_far_right,neu,neu
+2408905::PA793432,CNEWS,far_right,right_or_far_right,neu,neu
+4706525::PA330240,CNEWS,right,right_or_far_right,pos,pos
+2359271::PA267285,CNEWS,right,right_or_far_right,neu,neg
+1184960::PA609332,Le Figaro,left,left,neu,neu
+1199052::PA722142,Le Figaro,left,left,neu,neu
+1195852::PA1654,Le Figaro,left,left,neu,neu
+2406238::PA368,CNEWS,right,right_or_far_right,neu,neu
+2399259::PA720468,CNEWS,far_right,right_or_far_right,neu,neu
+1200733::PA721202,Le Figaro,left,left,neg,neu
+1204927::PA609332,Le Figaro,left,left,neu,neu
+1205532::PA720892,Le Figaro,left,left,neu,neu
+1208050::PA793464,Le Figaro,left,left,pos,pos
+1220846::PA793444,Le Figaro,left,left,neu,neu
+1222176::PA721202,Le Figaro,left,left,neu,neu
+2404724::PA346782,CNEWS,right,right_or_far_right,neu,neu
+1229592::PA1654,Le Figaro,left,left,neu,neu
+1210217::PA842105,Le Figaro,left,left,neu,neu
+1201353::PA793464,Le Figaro,left,left,neu,neu
+1213308::PA609332,Le Figaro,left,left,neu,neu
+1236078::PA721202,Le Figaro,left,left,neg,neg
+1241160::PA1654,Le Figaro,left,left,neu,neu
+1244351::PA722142,Le Figaro,left,left,neu,neu
+1529561::PA609332,Le Figaro,left,left,neg,neg
+1229785::PA1654,Le Figaro,left,left,neu,neu
+1533901::PA795076,Le Figaro,left,left,neu,neu
+1244632::PA793464,Le Figaro,left,left,neu,neg
+1622599::PA795596,Le Figaro,left,left,neg,neg
+1617565::PA791812,Le Figaro,left,left,neu,neu
+3585848::PA795318,Le Figaro,left,left,neg,neg
+3810901::PA721202,Le Figaro,left,left,neg,pos
+3833215::PA721202,Le Figaro,left,left,pos,pos
+1972449::PA842105,Le Figaro,left,left,neg,neg
+1600073::PA721202,Le Figaro,left,left,neu,neu
+4602418::PA842105,Le Figaro,left,left,neu,neu
+4457633::PA794130,Le Figaro,left,left,neg,neg
+4780787::PA793464,Le Figaro,left,left,neu,neu
+3829876::PA719930,Le Figaro,left,left,neu,neu
+1968703::PA842105,Le Figaro,left,left,neu,neg
+4438354::PA1654,Le Figaro,left,left,neu,neu
+1185061::PA330240,Le Figaro,right,right_or_far_right,neu,neu
+3788657::PA793464,Le Figaro,left,left,neu,neu
+1194915::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+1198822::PA720614,Le Figaro,far_right,right_or_far_right,neg,neg
+960292::PA795596,Le Figaro,left,left,neg,neg
+1069307::PA346782,Le Figaro,right,right_or_far_right,neu,neu
+1212511::PA720614,Le Figaro,far_right,right_or_far_right,pos,pos
+1212817::PA267285,Le Figaro,right,right_or_far_right,neu,neu
+1193021::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+1204822::PA267285,Le Figaro,right,right_or_far_right,neg,neu
+1185893::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+594098::PA720362,JDD,left,left,neg,neg
+1633797::PA795076,JDD,left,left,neg,neg
+540562::PA720614,Le Point,far_right,right_or_far_right,neg,neg
+595590::PA796090,JDD,left,left,neu,neu
+4895402::PA841207,Les Echos,right,right_or_far_right,neg,neg
+594424::PA1654,JDD,left,left,neg,neg
+3242656::PA795912,JDD,far_right,right_or_far_right,neg,neu
+2351190::PA795746,CNEWS,left,left,neu,neu
+905823::PA795912,JDD,far_right,right_or_far_right,neg,neu
+595397::PA720614,JDD,far_right,right_or_far_right,neu,neu
+2399220::PA609332,CNEWS,left,left,neu,neu
+2349543::PA330240,CNEWS,right,right_or_far_right,neu,neu
+2352719::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+2350596::PA720468,CNEWS,far_right,right_or_far_right,neu,neu
+589775::PA720614,JDD,far_right,right_or_far_right,pos,pos
+1236158::PA793444,Le Figaro,left,left,neu,neu
+2352194::PA794038,CNEWS,right,right_or_far_right,neu,neu
+1224084::PA793464,Le Figaro,left,left,neu,neu
+2193215::PA795778,CNEWS,far_right,right_or_far_right,neu,neu
+2350128::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+1215508::PA267285,Le Figaro,right,right_or_far_right,neu,neg
+1232777::PA720614,Le Figaro,far_right,right_or_far_right,neu,neg
+2353948::PA720614,CNEWS,far_right,right_or_far_right,neu,neu
+4467963::PA1654,Le Figaro,left,left,neg,neg
+1226495::PA1654,Le Figaro,left,left,neu,neu
+1901141::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+1240913::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+2347839::PA795076,CNEWS,left,left,neg,neg
+1981676::PA346782,Le Figaro,right,right_or_far_right,neu,neu
+1969321::PA795912,Le Figaro,far_right,right_or_far_right,neg,neg
+1238066::PA1654,Le Figaro,left,left,neu,neu
+1997999::PA330240,Le Figaro,right,right_or_far_right,neg,neg
+3638688::PA267285,Le Figaro,right,right_or_far_right,neu,neu
+3643150::PA267285,Le Figaro,right,right_or_far_right,pos,pos
+3664753::PA267285,Le Figaro,right,right_or_far_right,neu,neu
+1625014::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+3669833::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+1901828::PA720614,Le Figaro,far_right,right_or_far_right,neg,neg
+3681941::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+3820633::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+3707225::PA720614,Le Figaro,far_right,right_or_far_right,pos,pos
+4415818::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+4414850::PA720614,Le Figaro,far_right,right_or_far_right,neg,neg
+4418563::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+4451158::PA330240,Le Figaro,right,right_or_far_right,neg,neg
+3644231::PA330240,Le Figaro,right,right_or_far_right,neu,neu
+1244688::PA841067,Le Figaro,right,right_or_far_right,neg,neg
+4556640::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+4494083::PA330240,Le Figaro,right,right_or_far_right,pos,pos
+4597358::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+4613553::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+4656233::PA720892,Atlantico,left,left,neu,neu
+945132::PA720614,Le Figaro,far_right,right_or_far_right,neu,neg
+4459952::PA267285,Le Figaro,right,right_or_far_right,pos,pos
+4656192::PA1654,Atlantico,left,left,neu,neu
+4716135::PA1654,Atlantico,left,left,neu,neu
+4716545::PA722142,Atlantico,left,left,neg,neg
+4716565::PA1654,Atlantico,left,left,neu,neu
+4716607::PA1654,Atlantico,left,left,neu,neu
+4716434::PA1654,Atlantico,left,left,neu,neu
+4716942::PA609332,Atlantico,left,left,neg,neg
+4717562::PA795076,Atlantico,left,left,neg,neg
+4717536::PA795076,Atlantico,left,left,neu,neu
+4615791::PA841207,Le Figaro,right,right_or_far_right,neu,neu
+4717687::PA720892,Atlantico,left,left,neu,neu
+4716174::PA842105,Atlantico,left,left,neu,neu
+4717920::PA609332,Atlantico,left,left,neu,neu
+4716808::PA842105,Atlantico,left,left,neg,neg
+4717774::PA609332,Atlantico,left,left,neu,neg
+4717983::PA793464,Atlantico,left,left,neg,neg
+4717811::PA842105,Atlantico,left,left,neu,neu
+4718138::PA1567,Atlantico,left,left,neg,neg
+4717114::PA720892,Atlantico,left,left,neg,neg
+4718359::PA793444,Atlantico,left,left,neu,neu
+4718684::PA793444,Atlantico,left,left,neu,neu
+4717710::PA793464,Atlantico,left,left,neg,neg
+4718108::PA609332,Atlantico,left,left,neu,neu
+4718748::PA793444,Atlantico,left,left,neu,neu
+4718788::PA793464,Atlantico,left,left,neu,neu
+4719486::PA721202,Atlantico,left,left,neg,neg
+4719530::PA793444,Atlantico,left,left,neg,neg
+4718709::PA795318,Atlantico,left,left,neu,neg
+4719534::PA793464,Atlantico,left,left,neu,neu
+4718536::PA795466,Atlantico,left,left,neg,neg
+4719696::PA609332,Atlantico,left,left,neg,neg
+4718588::PA793464,Atlantico,left,left,neu,neu
+4719421::PA609332,Atlantico,left,left,neu,neu
+4752242::PA722142,Atlantico,left,left,neu,neg
+4716216::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4752405::PA609332,Atlantico,left,left,neu,neu
+4716593::PA720614,Atlantico,far_right,right_or_far_right,neg,neu
+4717135::PA267285,Atlantico,right,right_or_far_right,neu,neu
+4717011::PA720614,Atlantico,far_right,right_or_far_right,neu,neg
+4716580::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4717335::PA720614,Atlantico,far_right,right_or_far_right,neu,neg
+4717168::PA368,Atlantico,right,right_or_far_right,neu,neu
+4717413::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4717496::PA795552,Atlantico,far_right,right_or_far_right,neu,neu
+4717839::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4717969::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4717404::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4716916::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4718063::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4718205::PA267285,Atlantico,right,right_or_far_right,neu,neu
+4718017::PA267285,Atlantico,right,right_or_far_right,neu,neu
+4717730::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4718284::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4717900::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4718311::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4718304::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4718102::PA267285,Atlantico,right,right_or_far_right,neu,neu
+4718299::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4718320::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4718318::PA720614,Atlantico,far_right,right_or_far_right,neu,neg
+4718249::PA267285,Atlantico,right,right_or_far_right,neu,neu
+4718323::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4718417::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4719390::PA267285,Atlantico,right,right_or_far_right,neu,neu
+4719411::PA720614,Atlantico,far_right,right_or_far_right,neu,neu
+4719066::PA720614,Atlantico,far_right,right_or_far_right,neu,neg
+4719607::PA330240,Atlantico,right,right_or_far_right,neg,neg
+4719218::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4719403::PA267285,Atlantico,right,right_or_far_right,neu,neu
+1762897::PA720892,Causeur,left,left,neu,neu
+1762712::PA722142,Causeur,left,left,neu,neu
+4719015::PA720614,Atlantico,far_right,right_or_far_right,pos,pos
+1763459::PA721960,Causeur,left,left,neg,neg
+1765459::PA1654,Causeur,left,left,neu,neu
+4719110::PA795778,Atlantico,far_right,right_or_far_right,neu,neu
+1765939::PA793464,Causeur,left,left,neg,neg
+1765563::PA793464,Causeur,left,left,neu,neg
+4719839::PA330240,Atlantico,right,right_or_far_right,neu,neu
+1766246::PA609332,Causeur,left,left,neg,neg
+1765005::PA791812,Causeur,left,left,neg,neg
+1767447::PA795318,Causeur,left,left,neg,neg
+1765877::PA720892,Causeur,left,left,neu,neu
+1766987::PA1654,Causeur,left,left,neu,neu
+1769606::PA719930,Causeur,left,left,neg,neg
+1769407::PA1654,Causeur,left,left,neg,neg
+2147126::PA2940,Causeur,left,left,neg,neg
+1769036::PA793464,Causeur,left,left,neg,neg
+4388137::PA793464,Causeur,left,left,neg,neg
+1769408::PA791812,Causeur,left,left,neg,neg
+4716998::PA841327,Causeur,left,left,neg,neg
+4718765::PA841813,Causeur,left,left,neg,neg
+4723101::PA795746,Causeur,left,left,pos,pos
+1763344::PA720614,Causeur,far_right,right_or_far_right,pos,pos
+4388718::PA842105,Causeur,left,left,neg,neg
+1766707::PA720614,Causeur,far_right,right_or_far_right,neg,neu
+1766784::PA720614,Causeur,far_right,right_or_far_right,neg,neg
+2352818::PA722142,Causeur,left,left,neg,neg
+1766716::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+4717811::PA795200,Atlantico,left,left,neu,neu
+1767352::PA267285,Causeur,right,right_or_far_right,neu,neu
+1767650::PA720614,Causeur,far_right,right_or_far_right,pos,neu
+1768160::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+1768838::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+1763266::PA720614,Causeur,far_right,right_or_far_right,neg,neg
+1768343::PA720614,Causeur,far_right,right_or_far_right,neg,neg
+1846129::PA720614,Causeur,far_right,right_or_far_right,neg,neg
+1846414::PA720614,Causeur,far_right,right_or_far_right,neg,neg
+1846545::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+1846648::PA720614,Causeur,far_right,right_or_far_right,pos,pos
+1846499::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+4716846::PA841207,Causeur,right,right_or_far_right,neu,neu
+1845675::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+1542669::PA795076,Valeurs actuelles,left,left,neg,neg
+2029226::PA842105,Valeurs actuelles,left,left,neg,neg
+1541780::PA609332,Valeurs actuelles,left,left,neg,neg
+2033797::PA1654,Valeurs actuelles,left,left,neu,neu
+4722950::PA841207,Causeur,right,right_or_far_right,pos,neg
+1994028::PA841207,Causeur,right,right_or_far_right,neu,neu
+4722988::PA841207,Causeur,right,right_or_far_right,neg,neg
+2033374::PA609332,Valeurs actuelles,left,left,neu,neu
+2788015::PA841327,Valeurs actuelles,left,left,neu,pos
+2801177::PA2940,Valeurs actuelles,left,left,neg,neg
+5042880::PA720614,Causeur,far_right,right_or_far_right,neg,neg
+2803907::PA795076,Valeurs actuelles,left,left,neu,neu
+2806655::PA609332,Valeurs actuelles,left,left,neg,neg
+2806828::PA795076,Valeurs actuelles,left,left,neg,neg
+2815420::PA721202,Valeurs actuelles,left,left,neu,neu
+2792483::PA795310,Valeurs actuelles,left,left,neu,neu
+2802666::PA793464,Valeurs actuelles,left,left,neg,neg
+2814858::PA796090,Valeurs actuelles,left,left,neg,neg
+2788432::PA795318,Valeurs actuelles,left,left,neg,neg
+2826806::PA793464,Valeurs actuelles,left,left,neg,neg
+2815536::PA795466,Valeurs actuelles,left,left,neu,neu
+2815876::PA796090,Valeurs actuelles,left,left,neu,neu
+2830983::PA720892,Valeurs actuelles,left,left,neu,neu
+2829458::PA795466,Valeurs actuelles,left,left,neu,neu
+2832568::PA795318,Valeurs actuelles,left,left,neg,neg
+2834330::PA722142,Valeurs actuelles,left,left,neu,neu
+2822117::PA795076,Valeurs actuelles,left,left,neg,neg
+2815892::PA795076,Valeurs actuelles,left,left,neg,neg
+4373231::PA793464,Valeurs actuelles,left,left,neg,neg
+4374297::PA794130,Valeurs actuelles,left,left,neg,neg
+2824576::PA795076,Valeurs actuelles,left,left,neg,neg
+4374350::PA794130,Valeurs actuelles,left,left,neg,neg
+4373049::PA609332,Valeurs actuelles,left,left,neu,neu
+4375600::PA796062,Valeurs actuelles,left,left,neg,neg
+4620026::PA795076,Valeurs actuelles,left,left,neu,neu
+4371878::PA841729,Valeurs actuelles,left,left,neu,neu
+4373964::PA842105,Valeurs actuelles,left,left,neg,neg
+2004582::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4627321::PA793464,Valeurs actuelles,left,left,neg,neg
+2029273::PA841207,Valeurs actuelles,right,right_or_far_right,pos,pos
+2788408::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2018809::PA795912,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2796138::PA267285,Valeurs actuelles,right,right_or_far_right,neu,neu
+2787288::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2804082::PA720614,Valeurs actuelles,far_right,right_or_far_right,neg,neg
+2811799::PA267285,Valeurs actuelles,right,right_or_far_right,neu,neu
+2804087::PA720614,Valeurs actuelles,far_right,right_or_far_right,pos,pos
+2806396::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2010346::PA794598,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2803082::PA720614,Valeurs actuelles,far_right,right_or_far_right,neg,neg
+2830104::PA841207,Valeurs actuelles,right,right_or_far_right,neu,neu
+4371586::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4371775::PA267285,Valeurs actuelles,right,right_or_far_right,neg,neg
+2829685::PA720614,Valeurs actuelles,far_right,right_or_far_right,pos,neg
+4372144::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2821616::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4372902::PA330240,Valeurs actuelles,right,right_or_far_right,pos,pos
+2838022::PA841207,Valeurs actuelles,right,right_or_far_right,neu,neu
+2829912::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2815991::PA330240,Valeurs actuelles,right,right_or_far_right,neu,neu
+589629::PA795466,JDD,left,left,neg,neg
+4716777::PA793464,Atlantico,left,left,neu,neu
+1803003::PA720614,La Croix,far_right,right_or_far_right,neu,neu
+594883::PA794130,JDD,left,left,neg,neg
+3715881::PA720614,Le Figaro,far_right,right_or_far_right,neu,neu
+4718669::PA795318,Atlantico,left,left,neg,neg
+1938528::PA720614,JDD,far_right,right_or_far_right,pos,pos
+4719639::PA609332,Atlantico,left,left,pos,neu
+1768491::PA793736,Causeur,left,left,neu,neu
+3493501::PA330240,Le Figaro,right,right_or_far_right,neg,neg
+4716219::PA720614,Atlantico,far_right,right_or_far_right,neu,neg
+1768589::PA796090,Causeur,left,left,neu,neu
+1764277::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+4753339::PA609332,Atlantico,left,left,neu,neu
+2814963::PA793464,Valeurs actuelles,left,left,neg,neg
+1996820::PA720614,Causeur,far_right,right_or_far_right,neg,neg
+4718421::PA267285,Atlantico,right,right_or_far_right,neu,neu
+2033335::PA793464,Valeurs actuelles,left,left,neg,neu
+1766614::PA267285,Causeur,right,right_or_far_right,neg,neg
+4374346::PA794130,Valeurs actuelles,left,left,pos,pos
+1766793::PA720614,Causeur,far_right,right_or_far_right,neu,neu
+4608394::PA1567,Valeurs actuelles,left,left,neu,neu
+4371807::PA267285,Valeurs actuelles,right,right_or_far_right,neu,neu
+2788243::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4716276::PA720614,Atlantico,far_right,right_or_far_right,neg,neg
+4373043::PA330240,Valeurs actuelles,right,right_or_far_right,neu,neu
+4374928::PA795778,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4372760::PA793464,Valeurs actuelles,left,left,neu,neu
+4372874::PA841139,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4375339::PA720614,Valeurs actuelles,far_right,right_or_far_right,neg,neg
+4376902::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4374747::PA330240,Valeurs actuelles,right,right_or_far_right,neu,neu
+4602515::PA719436,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+2823648::PA267285,Valeurs actuelles,right,right_or_far_right,neu,neu
+4627309::PA841207,Valeurs actuelles,right,right_or_far_right,neu,neu
+4373222::PA330240,Valeurs actuelles,right,right_or_far_right,neu,neu
+5047936::PA330240,Valeurs actuelles,right,right_or_far_right,neu,neu
+4599061::PA720614,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+4612248::PA795552,Valeurs actuelles,far_right,right_or_far_right,neu,neu
+594171::PA795466,JDD,left,left,neu,neg
+2819791::PA793464,Valeurs actuelles,left,left,neu,neu
+4511074::PA330240,Valeurs actuelles,right,right_or_far_right,neu,neg
+4373294::PA720614,Valeurs actuelles,far_right,right_or_far_right,neg,neg

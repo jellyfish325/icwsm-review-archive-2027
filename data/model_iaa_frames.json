@@ -1,0 +1,244 @@
+{
+  "alignment": {
+    "dropped_article_ids": [
+      "4555807"
+    ],
+    "n_aligned_inner_join": 19976,
+    "n_dropped_missing_vote_vector": 1,
+    "n_gpt_oss": 19976,
+    "n_kept_headlines": 19975,
+    "n_llama": 19976,
+    "n_mistral": 19976
+  },
+  "decision_cutoffs": {
+    "caveat": "0.50-0.70",
+    "redefine": "<0.50",
+    "validated": ">=0.70"
+  },
+  "dominant": {
+    "categories": [
+      "conflict",
+      "human_interest",
+      "economic",
+      "morality",
+      "responsibility",
+      "none"
+    ],
+    "fleiss_kappa": 0.5415,
+    "krippendorff_alpha_nominal": 0.5415,
+    "pairwise_cohen_unweighted": {
+      "gpt_oss|llama": 0.5502,
+      "gpt_oss|mistral": 0.5389,
+      "mistral|llama": 0.5436
+    },
+    "per_rater_marginals": {
+      "gpt_oss": {
+        "conflict": 9222,
+        "economic": 976,
+        "human_interest": 1665,
+        "morality": 619,
+        "none": 4892,
+        "responsibility": 2601
+      },
+      "llama": {
+        "conflict": 11438,
+        "economic": 604,
+        "human_interest": 2377,
+        "morality": 186,
+        "none": 2392,
+        "responsibility": 2978
+      },
+      "mistral": {
+        "conflict": 9001,
+        "economic": 1017,
+        "human_interest": 928,
+        "morality": 724,
+        "none": 4200,
+        "responsibility": 4105
+      }
+    },
+    "raw_3way_agreement": 0.5633
+  },
+  "majority_vote": {
+    "majority_dominant_distribution": {
+      "conflict": 10238,
+      "economic": 894,
+      "human_interest": 1522,
+      "morality": 381,
+      "none": 3992,
+      "responsibility": 2948
+    },
+    "majority_prevalence": {
+      "conflict": 0.5275,
+      "economic": 0.1077,
+      "human_interest": 0.1068,
+      "morality": 0.0574,
+      "responsibility": 0.3858
+    },
+    "n_dominant_inconsistent_with_majority_vector": 426,
+    "n_dominant_set_but_all_frames_zero": 312,
+    "n_dominant_ties_silver_fallback": 1311,
+    "n_units": 19975
+  },
+  "n_boot": 1000,
+  "n_units": 19975,
+  "pair_join_qa": {
+    "dropped_pair_article_ids": [
+      "4555807"
+    ],
+    "n_articles_out": 18980,
+    "n_pairs_dropped_no_frame": 1,
+    "n_pairs_in": 19981,
+    "n_pairs_out": 19980,
+    "qa_all_pairs_have_frames": true,
+    "qa_within_article_identical": true
+  },
+  "per_frame": {
+    "conflict": {
+      "agreement_tiers": {
+        "n": 19975,
+        "split_2_1": 5209,
+        "split_2_1_pct": 0.2608,
+        "unanimous_3_0": 14766,
+        "unanimous_pct": 0.7392
+      },
+      "alpha_nominal_ci95": [
+        0.6436,
+        0.6596
+      ],
+      "fleiss_kappa": 0.6516,
+      "krippendorff_alpha_nominal": 0.6516,
+      "pairwise_cohen_unweighted": {
+        "gpt_oss|llama": 0.6539,
+        "gpt_oss|mistral": 0.6457,
+        "mistral|llama": 0.6618
+      },
+      "prevalence_majority": 0.5275,
+      "prevalence_per_rater": {
+        "gpt_oss": 0.4941,
+        "llama": 0.6025,
+        "mistral": 0.4713
+      },
+      "raw_3way_agreement": 0.7392,
+      "verdict": "USABLE-WITH-CAVEAT (0.50-0.70)"
+    },
+    "economic": {
+      "agreement_tiers": {
+        "n": 19975,
+        "split_2_1": 1090,
+        "split_2_1_pct": 0.0546,
+        "unanimous_3_0": 18885,
+        "unanimous_pct": 0.9454
+      },
+      "alpha_nominal_ci95": [
+        0.7953,
+        0.8167
+      ],
+      "fleiss_kappa": 0.8062,
+      "krippendorff_alpha_nominal": 0.8062,
+      "pairwise_cohen_unweighted": {
+        "gpt_oss|llama": 0.7927,
+        "gpt_oss|mistral": 0.7688,
+        "mistral|llama": 0.8532
+      },
+      "prevalence_majority": 0.1077,
+      "prevalence_per_rater": {
+        "gpt_oss": 0.0924,
+        "llama": 0.1156,
+        "mistral": 0.1065
+      },
+      "raw_3way_agreement": 0.9454,
+      "verdict": "VALIDATED (>=0.70)"
+    },
+    "human_interest": {
+      "agreement_tiers": {
+        "n": 19975,
+        "split_2_1": 3237,
+        "split_2_1_pct": 0.1621,
+        "unanimous_3_0": 16738,
+        "unanimous_pct": 0.8379
+      },
+      "alpha_nominal_ci95": [
+        0.4819,
+        0.5103
+      ],
+      "fleiss_kappa": 0.4963,
+      "krippendorff_alpha_nominal": 0.4963,
+      "pairwise_cohen_unweighted": {
+        "gpt_oss|llama": 0.5801,
+        "gpt_oss|mistral": 0.5278,
+        "mistral|llama": 0.3959
+      },
+      "prevalence_majority": 0.1068,
+      "prevalence_per_rater": {
+        "gpt_oss": 0.1178,
+        "llama": 0.1906,
+        "mistral": 0.0581
+      },
+      "raw_3way_agreement": 0.8379,
+      "verdict": "REDEFINE (<0.50)"
+    },
+    "morality": {
+      "agreement_tiers": {
+        "n": 19975,
+        "split_2_1": 2102,
+        "split_2_1_pct": 0.1052,
+        "unanimous_3_0": 17873,
+        "unanimous_pct": 0.8948
+      },
+      "alpha_nominal_ci95": [
+        0.4499,
+        0.4876
+      ],
+      "fleiss_kappa": 0.4677,
+      "krippendorff_alpha_nominal": 0.4677,
+      "pairwise_cohen_unweighted": {
+        "gpt_oss|llama": 0.4593,
+        "gpt_oss|mistral": 0.4531,
+        "mistral|llama": 0.4999
+      },
+      "prevalence_majority": 0.0574,
+      "prevalence_per_rater": {
+        "gpt_oss": 0.0898,
+        "llama": 0.0488,
+        "mistral": 0.0742
+      },
+      "raw_3way_agreement": 0.8948,
+      "verdict": "REDEFINE (<0.50)"
+    },
+    "responsibility": {
+      "agreement_tiers": {
+        "n": 19975,
+        "split_2_1": 7121,
+        "split_2_1_pct": 0.3565,
+        "unanimous_3_0": 12854,
+        "unanimous_pct": 0.6435
+      },
+      "alpha_nominal_ci95": [
+        0.4875,
+        0.5052
+      ],
+      "fleiss_kappa": 0.4965,
+      "krippendorff_alpha_nominal": 0.4965,
+      "pairwise_cohen_unweighted": {
+        "gpt_oss|llama": 0.5041,
+        "gpt_oss|mistral": 0.4183,
+        "mistral|llama": 0.5715
+      },
+      "prevalence_majority": 0.3858,
+      "prevalence_per_rater": {
+        "gpt_oss": 0.3162,
+        "llama": 0.4528,
+        "mistral": 0.3763
+      },
+      "raw_3way_agreement": 0.6435,
+      "verdict": "REDEFINE (<0.50)"
+    }
+  },
+  "raters": [
+    "gpt_oss",
+    "mistral",
+    "llama"
+  ],
+  "seed": 42
+}
